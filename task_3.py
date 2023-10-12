@@ -16,7 +16,3 @@ with open("text_3_var_88", "r") as file:
 with open("task_3", "w") as res_file:
     for res in result:
         res_file.write(",".join(res) + "\n")
-
-
-# with open
-# print(text_file)
