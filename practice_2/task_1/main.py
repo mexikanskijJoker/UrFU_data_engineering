@@ -18,6 +18,20 @@ class Matrix:
     def __init__(self, data):
         self._matrix = data
 
+    def get_matrix_data(self) -> DataResponse:
+        min_value, max_value = self._get_matrix_min_and_max()
+
+        return {
+            "sum": f"{self._get_matrix_sum()}",
+            "avg": f"{self._get_matrix_avg()}",
+            "sumMD": f"{self._get_sumMD()}",
+            "avgMD": f"{self._get_avgMD()}",
+            "sumSD": f"{self._get_sumSD()}",
+            "avgSD": f"{self._get_avgSD()}",
+            "matrix_min": f"{min_value}",
+            "matrix_max": f"{max_value}",
+        }
+
     def _get_matrix_sum(self) -> int:
         return np.sum(self._matrix)
 
@@ -41,20 +55,6 @@ class Matrix:
 
     def _get_normalized_matrix(self) -> list[list[float]]:
         return np.divide(self._matrix, self._get_matrix_sum())
-
-    def get_matrix_data(self) -> DataResponse:
-        min_value, max_value = self._get_matrix_min_and_max()
-
-        return {
-            "sum": f"{self._get_matrix_sum()}",
-            "avg": f"{self._get_matrix_avg()}",
-            "sumMD": f"{self._get_sumMD()}",
-            "avgMD": f"{self._get_avgMD()}",
-            "sumSD": f"{self._get_sumSD()}",
-            "avgSD": f"{self._get_avgSD()}",
-            "matrix_min": f"{min_value}",
-            "matrix_max": f"{max_value}",
-        }
 
 
 def main():

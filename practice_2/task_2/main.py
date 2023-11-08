@@ -17,16 +17,6 @@ class ValueFilter:
 
         return self._x, self._y, self._z
 
-    def save_default_data(self):
-        np.savez("string_idx", x=self.get_arrays()[0])
-        np.savez("elem_idx", y=self.get_arrays()[1])
-        np.savez("values", z=self.get_arrays()[2])
-
-    def save_compressed_data(self):
-        np.savez_compressed("string_idx_comp", x=self.get_arrays()[0])
-        np.savez_compressed("elem_idx_comp", y=self.get_arrays()[1])
-        np.savez_compressed("values_comp", z=self.get_arrays()[2])
-
     @staticmethod
     def get_files_size() -> None:
         files = {
@@ -36,6 +26,16 @@ class ValueFilter:
         }
         for key, value in files.items():
             print(os.path.getsize(key), os.path.getsize(value))
+
+    def save_default_data(self):
+        np.savez("string_idx", x=self.get_arrays()[0])
+        np.savez("elem_idx", y=self.get_arrays()[1])
+        np.savez("values", z=self.get_arrays()[2])
+
+    def save_compressed_data(self):
+        np.savez_compressed("string_idx_comp", x=self.get_arrays()[0])
+        np.savez_compressed("elem_idx_comp", y=self.get_arrays()[1])
+        np.savez_compressed("values_comp", z=self.get_arrays()[2])
 
 
 def main():
