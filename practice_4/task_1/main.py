@@ -3,6 +3,7 @@ import sqlite3
 import msgpack
 
 
+DB_PATH = "/home/master/python/UrFU_data_engineering/practice_4/database.db"
 VAR = 18
 
 
@@ -12,10 +13,10 @@ class Table:
 
     @staticmethod
     def _create_table() -> sqlite3.Cursor:
-        with sqlite3.connect("my_database.db") as connection:
+        with sqlite3.connect(DB_PATH) as connection:
             db = connection.cursor()
         db.execute(
-            """CREATE TABLE IF NOT EXISTS Books (
+            """CREATE TABLE IF NOT EXISTS books (
             title TEXT PRIMARY KEY,
             author TEXT NOT NULL,
             genre TEXT NOT NULL,
@@ -30,7 +31,7 @@ class Table:
 
     @staticmethod
     def _get_category_freq() -> list:
-        with sqlite3.connect("my_database.db") as connection:
+        with sqlite3.connect(DB_PATH) as connection:
             db = connection.cursor()
         res = db.execute(
             """SELECT genre, count(*) FROM books GROUP BY genre"""
@@ -47,7 +48,7 @@ class Table:
 
     @staticmethod
     def _get_filetered_param():
-        with sqlite3.connect("my_database.db") as connection:
+        with sqlite3.connect(DB_PATH) as connection:
             db = connection.cursor()
         rows = db.execute(
             """SELECT * FROM books WHERE published_year > 1960 ORDER BY published_year LIMIT ? """,
@@ -71,7 +72,7 @@ class Table:
 
     @staticmethod
     def _get_int_parameters() -> dict:
-        with sqlite3.connect("my_database.db") as connection:
+        with sqlite3.connect(DB_PATH) as connection:
             db = connection.cursor()
         res = db.execute(
             """SELECT SUM(views), MIN(views), MAX(views), AVG(views) FROM books"""
@@ -80,7 +81,7 @@ class Table:
 
     @staticmethod
     def _get_sorted_param() -> list[dict]:
-        with sqlite3.connect("my_database.db") as connection:
+        with sqlite3.connect(DB_PATH) as connection:
             db = connection.cursor()
         rows = (
             db.execute("""SELECT * FROM books ORDER BY pages LIMIT ?""", [VAR + 10])
@@ -113,7 +114,7 @@ class Table:
 
     def _set_data_table(self) -> sqlite3.Cursor:
         data = self._get_file_data()
-        with sqlite3.connect("my_database.db") as connection:
+        with sqlite3.connect(DB_PATH) as connection:
             db = connection.cursor()
         db.executemany("INSERT OR IGNORE INTO books VALUES (?,?,?,?,?,?,?,?)", data)
         connection.commit()

@@ -1,0 +1,886 @@
+artist;song;duration_ms;year;tempo;genre;energy;key;loudness
+Kanye West;Can't Tell Me Nothing;271600;2007;80.029;hip hop;0.62;5;-6.133
+Sunshine Anderson;Heard It All Before;295826;2001;96.951;pop, R&B;0.925;3;-4.209
+Trey Songz;Na Na;231906;2015;96.975;hip hop, pop, R&B;0.476;9;-6.253
+Daft Punk;Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit;248413;2013;116.047;hip hop, Dance/Electronic;0.811;6;-8.966
+112;Peaches & Cream;193093;2001;203.862;hip hop, pop, R&B;0.52;4;-6.255
+Normani;Motivation;193837;2019;170.918;pop, R&B;0.887;4;-3.967
+MGMT;Kids;302840;2007;122.961;rock;0.931;9;-3.871
+Wiz Khalifa;Black and Yellow;217666;2011;164.02;hip hop, pop;0.834;2;-4.524
+Akon;I Wanna Love You;247066;2006;99.989;pop;0.45;0;-9.387
+Flo Rida;I Cry;223800;2012;126.035;hip hop, pop;0.822;4;-5.441
+Kanye West;Stronger;311866;2007;103.992;hip hop;0.717;10;-7.858
+Flo Rida;My House;192190;2015;94.006;hip hop, pop;0.702;7;-4.792
+Wyclef Jean;Sweetest Girl (Dollar Bill) (feat. Akon, Lil' Wayne & Niia);241133;2007;92.515;set();0.744;1;-3.51
+Blue;U Make Me Wanna - Radio Edit;222400;2003;158.108;pop;0.736;7;-6.228
+Flo Rida;Club Can't Handle Me (feat. David Guetta);234560;2010;127.966;hip hop, pop;0.869;0;-3.911
+Girls Aloud;Sound Of The Underground;221426;2003;163.944;pop, Dance/Electronic;0.867;11;-5.861
+Ashanti;Happy;262226;2002;89.488;hip hop, pop, R&B;0.515;2;-6.553
+Gorillaz;Clint Eastwood;340920;2001;167.953;hip hop;0.694;10;-8.627
+Twenty One Pilots;Stressed Out;202333;2015;169.977;rock;0.637;4;-5.677
+Rihanna;Hard;250600;2009;182.032;hip hop, pop, R&B;0.746;1;-3.599
+Mis-Teeq;All I Want - Sunship Radio Edit;207400;2004;134.079;pop, Dance/Electronic;0.919;9;-3.07
+Ray J;One Wish;337640;2005;127.673;hip hop, pop, R&B;0.652;5;-7.042
+Aaliyah;Try Again;284000;2002;93.02;hip hop, pop, R&B;0.622;6;-5.642
+The Strokes;Reptilia;219826;2003;158.009;rock;0.649;9;-5.11
+The Chainsmokers;Sick Boy;193200;2018;89.996;pop, Dance/Electronic;0.577;11;-7.518
+XXXTENTACION;SAD!;166605;2018;75.023;hip hop;0.613;8;-4.88
+Lilly Wood and The Prick;Prayer in C - Robin Schulz Radio Edit;189399;2014;123.002;pop, rock;0.886;9;-5.356
+Katie Melua;Nine Million Bicycles;197160;2005;82.168;pop, easy listening, jazz;0.247;0;-15.636
+The Chainsmokers;This Feeling;197946;2018;105.049;pop, Dance/Electronic;0.571;1;-7.906
+Lemar;If There's Any Justice;229080;2004;89.993;R&B;0.665;6;-5.348
+Lunay;Soltera - Remix;266086;2019;92.01;pop, latin;0.783;5;-4.271
+Pitbull;Timber (feat. Ke$ha);204160;2012;129.992;hip hop, pop, latin;0.963;11;-4.087
+Tweet;Oops (Oh My) [feat. Missy Elliott];237800;2002;159.963;hip hop, pop, R&B;0.536;10;-8.786
+The Fray;Never Say Never;256613;2009;160.139;pop;0.492;8;-5.767
+Zedd;Clarity;271426;2012;128.006;hip hop, pop, Dance/Electronic;0.78;8;-3.464
+Fedde Le Grand;Put Your Hands Up for Detroit - Radio Edit;150533;2015;127.919;pop, Dance/Electronic;0.923;7;-4.525
+Sam Smith;Like I Can;167065;2014;99.933;pop;0.627;7;-6.627
+Lil Wayne;How To Love;240306;2011;153.992;hip hop, pop;0.661;11;-6.093
+Colby O'Donis;What You Got;243013;2008;119.974;hip hop, pop, R&B;0.641;1;-6.718
+Jessie J;Domino;231840;2011;126.986;hip hop, pop;0.557;7;-4.568
+Hozier;Take Me To Church;241688;2014;128.945;Folk/Acoustic, pop;0.664;4;-5.303
+Trey Songz;Na Na;231906;2015;96.975;hip hop, pop, R&B;0.476;9;-6.253
+P.O.D.;Youth of the Nation;256240;2001;97.867;rock, metal;0.86;8;-7.533
+David Archuleta;Crush;213520;2008;162.084;pop;0.664;0;-4.718
+Usher;U Don't Have to Call;269400;2001;100.005;hip hop, pop, R&B;0.568;1;-4.958
+Wiz Khalifa;Roll Up;227773;2011;125.358;hip hop, pop;0.805;3;-5.473
+Ariana Grande;Break Free;214840;2014;129.956;pop;0.702;7;-5.324
+Maggie Lindemann;Pretty Girl - Cheat Codes X CADE Remix;193613;2017;121.03;rock, pop;0.868;7;-4.661
+Ariana Grande;Love Me Harder;236133;2014;98.992;pop;0.714;1;-4.389
+Christina Aguilera;Candyman;194213;2006;172.976;pop;0.789;8;-4.713
+George Michael;Amazing;265826;2004;128.429;set();0.754;10;-6.825
+Usher;Scream;234693;2012;127.992;hip hop, pop, R&B;0.862;7;-5.18
+Gabrielle;Rise;219093;2001;144.673;pop, R&B;0.481;8;-9.487
+Kodak Black;Tunnel Vision;268186;2017;171.853;hip hop;0.489;11;-7.724
+Pretty Ricky;Your Body;240040;2005;90.038;hip hop, pop, R&B;0.594;4;-5.695
+Jason Derulo;It Girl;192200;2011;91.993;hip hop, pop;0.718;1;-4.736
+Amy Winehouse;Back To Black;241293;2006;122.728;R&B;0.422;7;-13.964
+The Fray;You Found Me;241853;2009;151.994;pop;0.803;8;-5.412
+Carl Thomas;I Wish;226760;2000;89.824;pop, R&B;0.666;1;-4.929
+Fabolous;Make Me Better;253573;2007;86.491;hip hop, pop, R&B;0.599;11;-6.886
+Birdy;Wings;252106;2013;83.235;pop;0.707;7;-4.534
+Justin Bieber;Baby;214240;2010;65.043;pop;0.859;5;-5.237
+J. Cole;MIDDLE CHILD;213593;2019;123.984;hip hop;0.364;8;-11.713
+Gigi D'Agostino;The Riddle;285426;1999;127.002;pop;0.876;6;-6.87
+Big Tymers;Still Fly;335613;2002;177.928;hip hop, pop;0.607;11;-3.538
+Kylie Minogue;Can't Get You out of My Head;230640;2001;126.007;pop, Dance/Electronic;0.563;9;-7.516
+Grouplove;Tongue Tied;218013;2011;112.96;pop, rock, Folk/Acoustic;0.936;3;-5.835
+Ellie Goulding;Starry Eyed;176613;2010;149.967;pop, rock, Dance/Electronic;0.814;5;-5.346
+Daddy Yankee;Dura;200480;2018;95.001;latin;0.84;1;-3.416
+Of Monsters and Men;Little Talks;266600;2012;102.961;pop, rock, Folk/Acoustic;0.757;1;-5.177
+Kanye West;Jesus Walks;193733;2004;87.312;hip hop;0.834;3;-4.686
+"H ""two"" O";What's It Gonna Be (feat. Platnum);207476;2008;139.61;Dance/Electronic;0.9;9;-4.758
+David Guetta;Gettin' Over You (feat. Fergie & LMFAO);188000;2010;129.944;hip hop, pop, Dance/Electronic;0.913;10;-5.077
+Finger Eleven;Paralyzer;208106;2007;106.031;rock, metal;0.939;11;-3.486
+Daughtry;It's Not Over;215173;2016;145.959;pop, rock, metal;0.921;10;-3.476
+Calvin Harris;This Is What You Came For (feat. Rihanna);222160;2016;123.962;hip hop, pop, Dance/Electronic;0.927;9;-2.787
+Kesha;Take It Off;215200;2010;125.036;pop, Dance/Electronic;0.675;5;-5.292
+Travis Scott;SICKO MODE;312820;2018;155.008;hip hop, Dance/Electronic;0.73;8;-3.714
+MGMT;Little Dark Age;299960;2018;97.512;rock;0.712;6;-6.156
+Avicii;Wake Me Up;247426;2013;124.08;pop, Dance/Electronic;0.783;2;-5.697
+Beyoncé;Drunk in Love (feat. Jay-Z);323480;2014;140.03;pop, R&B;0.621;5;-6.902
+Reik;Me Niego (feat. Ozuna & Wisin);221653;2018;94.023;pop, latin;0.779;0;-4.449
+Alex Gaudino;Destination Calabria - Radio Edit;223111;2007;128.016;Dance/Electronic;0.954;2;-4.804
+O.T. Genasis;CoCo;239573;2014;119.906;hip hop, pop;0.628;8;-5.949
+Wayne Wonder;No Letting Go;202013;2003;100.215;hip hop, R&B;0.819;5;-5.656
+Britney Spears;Break the Ice;196053;2007;117.533;pop;0.911;5;-3.866
+Duck Sauce;Barbra Streisand - Radio Edit;196533;2010;127.965;Dance/Electronic;0.922;1;-1.966
+The Weeknd;Call Out My Name;228373;2018;134.17;pop, R&B;0.593;1;-4.954
+Outkast;Hey Ya!;235213;2003;79.526;hip hop, pop;0.974;4;-2.261
+ScHoolboy Q;Man Of The Year;216013;2014;111.959;hip hop, pop;0.861;3;-5.234
+3LW;No More (Baby I'ma Do Right);263440;2000;88.933;pop, R&B;0.723;2;-7.08
+Blazin' Squad;Crossroads - Radio Edit;188693;2012;144.188;set();0.746;4;-5.153
+Fort Minor;Remember the Name (feat. Styles of Beyond);230493;2005;84.858;hip hop, pop, rock;0.835;8;-4.162
+Post Malone;Wow.;149546;2019;99.96;hip hop;0.539;11;-7.359
+Michelle Branch;All You Wanted;217680;2001;96.103;pop, Folk/Acoustic;0.72;8;-9.101
+Avril Lavigne;What the Hell;220706;2011;149.976;pop;0.926;6;-3.689
+Beyoncé;Baby Boy (feat. Sean Paul);244826;2003;91.025;pop, R&B;0.488;1;-9.17
+Anastacia;Left Outside Alone;257426;2004;102.847;pop;0.746;2;-3.567
+No Doubt;Hella Good;242586;2001;115.142;rock, pop;0.665;8;-3.954
+Nickelback;Gotta Be Somebody;252653;2008;115.998;rock, metal;0.89;0;-5.222
+Armand Van Helden;My My My - Radio Edit;190000;2006;127.51;pop, Dance/Electronic;0.768;7;-8.502
+Ne-Yo;Beautiful Monster;251573;2010;128.013;pop, R&B;0.771;5;-6.99
+Red Hot Chili Peppers;Dani California;282160;2006;96.184;rock;0.913;0;-2.36
+Usher;My Boo;223440;2004;86.412;hip hop, pop, R&B;0.507;5;-8.238
+Bob Sinclar;Love Generation - Radio Edit;207613;2005;128.04;pop, Dance/Electronic;0.812;1;-5.758
+Loud Luxury;Body (feat. brando);163216;2017;121.958;pop, Dance/Electronic;0.764;1;-4.399
+Kelly Clarkson;My Life Would Suck Without You;211493;2009;144.982;pop, R&B;0.882;9;-4.006
+Labrinth;Earthquake (feat. Tinie Tempah);274600;2012;153.071;pop;0.856;0;-3.966
+Shakira;She Wolf;188866;2009;121.983;pop, latin;0.69;7;-7.448
+Eric Prydz;Proper Education - Radio Edit;198567;2007;124.938;pop, Dance/Electronic;0.937;0;-4.543
+Ellie Goulding;Burn;231211;2014;87.016;pop, rock, Dance/Electronic;0.777;1;-5.031
+Rihanna;Where Have You Been;242680;2011;127.963;hip hop, pop, R&B;0.847;0;-6.34
+G.R.L.;Ugly Heart;198306;2014;124.96;pop;0.786;9;-5.488
+Olly Murs;Wrapped Up (feat. Travie McCoy);185640;2014;121.989;pop, Dance/Electronic;0.848;1;-4.696
+Enrique Iglesias;Bailando - Spanish Version;243386;2014;90.949;pop, latin;0.792;7;-3.519
+Sean Paul;(When You Gonna) Give It Up to Me (feat. Keyshia Cole) - Radio Version;243880;2006;95.824;hip hop, pop;0.761;8;-3.04
+Snoop Dogg;Sensual Seduction;245520;2007;120.163;hip hop, pop;0.829;11;-3.973
+Good Charlotte;Lifestyles of the Rich & Famous;190173;2002;106.22;rock, metal;0.93;1;-3.685
+Chris Brown;Run It! (feat. Juelz Santana);229866;2005;100.969;hip hop, pop, R&B;0.482;1;-6.721
+Pia Mia;Do It Again;207746;2015;95.95;pop, R&B;0.564;8;-6.527
+Kings of Leon;Sex on Fire;203346;2008;153.398;rock;0.905;9;-5.653
+will.i.am;Heartbreaker;327880;2007;120.051;hip hop, pop;0.549;9;-8.793
+Dominic Fike;3 Nights;177666;2018;151.891;rock, pop;0.518;7;-6.594
+D12;How Come;249533;2004;89.983;hip hop, pop, rock;0.858;9;-2.221
+Basement Jaxx;Good Luck;282306;2003;154.07;pop, Dance/Electronic;0.968;5;-3.092
+ScHoolboy Q;Collard Greens;299960;2014;153.972;hip hop, pop;0.571;11;-4.871
+Miley Cyrus;Can't Be Tamed;168213;2010;116.98;pop;0.91;11;-2.919
+Jason Derulo;Don't Wanna Go Home;206080;2011;121.956;hip hop, pop;0.808;2;-4.861
+Erykah Badu;Bag Lady;348893;2000;151.181;hip hop, R&B;0.416;5;-8.964
+Baauer;Harlem Shake;196664;2013;137.825;Dance/Electronic;0.794;0;-5.151
+K-Ci & JoJo;Crazy;262773;2019;116.097;pop, R&B;0.644;0;-4.507
+Sean Kingston;Fire Burning;239986;2009;122.973;hip hop, pop, R&B;0.804;1;-2.513
+Flo Rida;Whistle;224653;2012;103.976;hip hop, pop;0.937;0;-5.746
+Nicki Minaj;Anaconda;260240;2014;129.994;hip hop, pop;0.605;9;-6.223
+Cardi B;Money;183527;2018;130.003;hip hop, pop;0.59;8;-6.508
+J. Holiday;Bed;275106;2007;127.901;hip hop, pop, R&B, Dance/Electronic;0.606;5;-7.268
+Linkin Park;Numb;185586;2003;110.018;rock, metal;0.863;9;-4.153
+The Weeknd;Can't Feel My Face;213520;2015;107.949;pop, R&B;0.769;9;-5.526
+Jay Sean;Down;212106;2009;65.997;hip hop, pop, R&B;0.695;2;-4.493
+Demi Lovato;Cool for the Summer;214746;2015;114.101;pop;0.613;5;-5.593
+Beyoncé;Beautiful Liar;199853;2007;91.977;pop, R&B;0.751;8;-3.74
+Bruno Mars;Marry You;230192;2010;144.905;pop;0.82;10;-4.865
+Gym Class Heroes;Cookie Jar (feat. The-Dream);216317;2008;113.053;hip hop, pop;0.668;5;-4.061
+Pitbull;Feel This Moment (feat. Christina Aguilera);229506;2012;135.956;hip hop, pop, latin;0.758;7;-3.632
+Evanescence;Bring Me To Life;235893;2003;94.612;metal;0.943;4;-3.188
+Mariah Carey;It's Like That;203360;2005;95.953;pop, R&B;0.633;8;-4.875
+Jeremih;Birthday Sex;226506;2009;60.019;hip hop, pop, R&B;0.523;7;-5.603
+Jennifer Lopez;I'm Real (feat. Ja Rule) - Murder Remix;262133;2001;83.46;hip hop, pop, R&B;0.587;11;-7.93
+Take That;The Flood;289359;2010;100.631;pop;0.83;11;-6.077
+The Red Jumpsuit Apparatus;Face Down;192000;2006;92.956;pop;0.932;7;-2.189
+Sting;Desert Rose;285960;1999;111.989;rock, pop;0.659;0;-7.92
+JLS;Everybody in Love;195586;2013;140.022;pop;0.783;5;-5.971
+iann dior;emotions;131213;2019;80.512;hip hop, pop;0.63;9;-6.211
+Samantha Mumba;Gotta Tell You;201946;2018;109.981;pop;0.632;0;-8.75
+Kiesza;Hideaway;251986;2014;122.993;pop, Dance/Electronic;0.72;7;-4.135
+Taylor Swift;Style;231000;2014;94.933;pop;0.791;7;-5.595
+Eamon;Fuck It (I Don't Want You Back);225106;2004;68.507;set();0.653;0;-6.245
+The Fray;How to Save a Life;262533;2005;122.035;pop;0.743;10;-4.08
+Bastille;Pompeii;214147;2013;127.435;pop, rock;0.715;9;-6.383
+Martin Garrix;Animals - Radio Edit;176117;2013;128.015;pop, Dance/Electronic;0.914;1;-5.351
+Britney Spears;I'm Not a Girl, Not Yet a Woman;231066;2001;78.996;pop;0.543;3;-6.857
+Robbie Williams;Eternity;302760;2001;77.967;pop, rock;0.316;10;-8.106
+Mary J. Blige;Rainy Dayz;276373;2001;68.942;pop, R&B;0.667;6;-6.997
+Fort Minor;Where'd You Go (feat. Holly Brook & Jonah Matranga);231866;2005;179.999;hip hop, pop, rock;0.819;1;-3.309
+The Offspring;You're Gonna Go Far, Kid;177826;2008;126.115;rock, pop, metal;0.917;0;-3.159
+Aaliyah;Rock The Boat;275026;2019;92.988;hip hop, pop, R&B;0.72;5;-5.209
+Jennifer Lopez;Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix;187840;2002;100.0;hip hop, pop, R&B;0.768;6;-5.448
+Jay Rock;King's Dead (with Kendrick Lamar, Future & James Blake);229670;2018;137.133;hip hop, pop;0.705;1;-5.008
+X Ambassadors;Renegades;195200;2015;90.052;hip hop, rock, pop;0.862;2;-6.003
+Marilyn Manson;Tainted Love;200426;2003;142.017;rock, metal;0.876;8;-7.779
+Anuel AA;Secreto;258800;2019;91.987;latin;0.803;11;-4.156
+Jay Sean;Eyes On You - Radio Mix;190493;2004;96.525;hip hop, pop, R&B;0.672;7;-4.971
+Jibbs;Chain Hang Low;207586;2006;157.147;hip hop, pop;0.589;4;-6.869
+Snoop Dogg;Beautiful;299146;2005;101.025;hip hop, pop;0.74;11;-4.936
+Matchbox Twenty;Unwell;228706;2002;80.718;pop, rock;0.788;6;-5.263
+Dua Lipa;New Rules;212000;2017;116.01;pop;0.72;9;-5.181
+Dean Lewis;Be Alright;196373;2018;126.684;pop;0.586;11;-6.319
+Example;Changed the Way You Kiss Me - Radio Edit;195466;2011;126.979;pop, Dance/Electronic;0.857;4;-3.78
+Justin Timberlake;My Love (feat. T.I.);276160;2006;119.952;pop;0.68;11;-5.881
+Bobby Shmurda;Hot N*gga;194561;2014;167.879;hip hop, pop;0.51;9;-7.314
+Lucenzo;Danza Kuduro (feat. Don Omar);213986;2011;130.003;latin;0.942;7;-6.365
+Lil Uzi Vert;XO Tour Llif3;182706;2017;155.096;hip hop;0.75;11;-6.366
+Britney Spears;Everytime;230306;2003;109.599;pop;0.284;3;-12.852
+Creed;With Arms Wide Open;274800;1999;138.852;pop, rock, metal;0.539;0;-8.412
+Dr. Dre;I Need A Doctor;283733;2011;155.826;hip hop;0.946;3;-4.521
+XXXTENTACION;Moonlight;135090;2018;128.009;hip hop;0.537;9;-5.723
+Camille Jones;The Creeps - Fedde Le Grand Radio Mix;152333;2006;127.894;set();0.861;6;-6.632
+Fuel;Hemorrhage (In My Hands);236866;2000;152.034;rock, pop, metal;0.831;1;-3.894
+Mary J. Blige;Family Affair;265866;2001;92.887;pop, R&B;0.551;8;-3.75
+Britney Spears;Oops!...I Did It Again;211160;2000;95.053;pop;0.834;1;-5.444
+Zara Larsson;Lush Life;202213;2015;98.024;pop, Dance/Electronic;0.741;7;-2.86
+Tory Lanez;Say It;237786;2016;107.331;hip hop, pop, R&B;0.529;11;-10.511
+Craig David;Rise & Fall (feat. Sting);287226;2002;83.373;hip hop, pop, R&B;0.589;6;-7.51
+Crazy Town;Butterfly;216733;1999;103.502;rock, metal;0.811;9;-4.17
+Kylie Minogue;Spinning Around;207866;2000;120.043;pop, Dance/Electronic;0.662;6;-7.645
+Kevin Lyttle;Turn Me On;192106;2004;106.279;hip hop;0.682;9;-6.879
+Scooter;Nessaja;208449;2013;143.048;pop, Dance/Electronic;0.904;2;-6.642
+Drake;God's Plan;198973;2018;77.169;hip hop, pop, R&B;0.449;7;-9.211
+Plies;Hypnotized (feat. Akon);188493;2007;116.59;hip hop, pop, R&B;0.571;10;-7.421
+Ciara;Get Up (feat. Chamillionaire);261880;2006;128.593;pop, R&B;0.595;1;-6.887
+Dr. Dre;Forgot About Dre;222293;1999;133.974;hip hop;0.74;8;-1.299
+Joe;I Wanna Know;296693;2000;136.086;pop, R&B;0.487;8;-5.959
+Foo Fighters;Best of You;255626;2005;130.198;rock, metal;0.94;1;-5.119
+Kanye West;Homecoming;203493;2007;86.917;hip hop;0.747;1;-7.059
+Backstreet Boys;Incomplete;239586;2005;133.631;pop;0.589;4;-4.834
+Liberty X;Just A Little;237359;2019;103.887;pop;0.614;5;-6.554
+Post Malone;Goodbyes (Feat. Young Thug);174960;2019;150.231;hip hop;0.653;5;-3.818
+Gigi D'Agostino;L'Amour Toujours;238759;2011;139.066;pop;0.728;7;-7.932
+Fergie;London Bridge;241306;2006;90.951;pop, R&B;0.609;1;-5.894
+The xx;Intro;127920;2009;100.363;rock;0.778;9;-8.871
+Young Thug;The London (feat. J. Cole & Travis Scott);200106;2019;97.981;hip hop, pop;0.586;4;-6.946
+Chris Brown;Turn Up the Music;227973;2012;129.925;hip hop, pop, R&B;0.841;1;-5.792
+Diddy;I Need a Girl (Pt. 1) [feat. Usher & Loon];268800;2005;89.279;hip hop, pop;0.707;6;-5.758
+Donell Jones;"U Know What's Up (feat. Lisa ""Left Eye"" Lopes)";243733;1999;103.032;pop, R&B;0.543;8;-6.166
+Taylor Swift;I Knew You Were Trouble.;219720;2012;77.019;pop;0.469;3;-6.798
+Rich Homie Quan;Flex (Ooh, Ooh, Ooh);176674;2015;163.993;hip hop, pop;0.615;6;-7.534
+Jack Ü;Where Are Ü Now (with Justin Bieber);250285;2015;139.432;pop, Dance/Electronic;0.781;4;-4.038
+WILLOW;Wait a Minute!;196520;2015;101.003;pop, R&B, Dance/Electronic;0.705;3;-5.279
+The Pussycat Dolls;When I Grow Up;245680;2008;118.449;pop, R&B;0.685;11;-5.762
+P!nk;Most Girls;298960;2000;97.922;pop;0.732;2;-6.046
+Lloyd;Get It Shawty;209533;2007;128.014;hip hop, pop, R&B;0.905;5;-4.032
+Enrique Iglesias;Tonight (I'm Fuckin' You);232213;2010;125.953;pop, latin;0.89;0;-3.982
+Saving Abel;Addicted;222826;2008;138.018;rock, metal;0.864;7;-4.146
+Ashanti;Only U - No Intro;186306;2004;94.547;hip hop, pop, R&B;0.621;6;-5.576
+Craig David;7 Days;235133;2000;83.014;hip hop, pop, R&B;0.812;4;-7.499
+One Direction;Night Changes;226600;2014;120.001;pop;0.52;8;-7.747
+Fetty Wap;679 (feat. Remy Boyz);196693;2015;190.05;hip hop, pop;0.717;7;-5.738
+Avant;Read Your Mind;263506;2003;73.108;pop, R&B;0.381;8;-6.696
+Lily Allen;Not Fair;201213;2009;121.491;pop;0.861;5;-6.982
+Coldplay;Clocks;307879;2002;130.97;rock, pop;0.749;5;-7.215
+James Morrison;Wonderful World;210066;2006;78.969;pop, R&B;0.71;1;-4.606
+Tom Jones;Sexbomb;211893;1999;122.979;rock, Folk/Acoustic, easy listening;0.876;8;-3.94
+Natasha Bedingfield;Unwritten;259333;2004;100.011;pop;0.8;5;-6.333
+Justin Timberlake;Rock Your Body;267266;2002;100.972;pop;0.714;4;-6.055
+Galantis;No Money;189126;2016;126.01;pop, Dance/Electronic;0.916;6;-4.014
+Kanye West;All Falls Down;223506;2004;91.03;hip hop;0.734;8;-4.832
+Savage Garden;Crash and Burn;281466;1999;102.03;pop;0.607;4;-8.458
+Jennifer Lopez;All I Have (feat. LL Cool J);254466;2002;83.066;hip hop, pop, R&B;0.669;1;-5.265
+Passenger;Let Her Go;252866;2012;75.089;pop;0.538;7;-7.335
+Jax Jones;Breathe;207629;2017;125.985;hip hop, pop, Dance/Electronic;0.744;11;-5.52
+Keyshia Cole;Love;255333;2005;116.714;hip hop, pop, R&B;0.519;5;-4.285
+Bruno Mars;It Will Rain;257720;2011;150.017;pop;0.835;2;-6.826
+The Chainsmokers;Something Just Like This;247160;2017;103.019;pop, Dance/Electronic;0.635;11;-6.769
+Fragma;Everytime You Need Me - Radio Version;213346;2001;137.029;pop, Dance/Electronic;0.917;11;-5.459
+Kendrick Lamar;HUMBLE.;177000;2017;150.018;hip hop;0.625;1;-6.779
+Klangkarussell;Sonnentanz - Sun Don't Shine;238120;2014;119.74;pop, Dance/Electronic;0.549;5;-8.262
+Desiigner;Tiimmy Turner;239853;2016;122.803;hip hop, pop;0.725;6;-3.054
+DJ Fresh;Gold Dust - Radio Edit;192446;2010;176.985;pop, Dance/Electronic;0.948;0;-0.74
+U2;Vertigo;193520;2004;140.083;World/Traditional, rock;0.819;9;-3.974
+G-Eazy;Me, Myself & I;251466;2015;111.995;hip hop, pop;0.674;0;-6.518
+Zedd;The Middle;184732;2018;107.01;hip hop, pop, Dance/Electronic;0.657;7;-3.061
+Blake Shelton;Honey Bee;210720;2011;205.57;country;0.849;4;-5.131
+*NSYNC;Girlfriend;253600;2001;93.967;pop;0.807;0;-5.191
+Alicia Keys;Diary (feat. Tony! Toni! Tone! & Jermaine Paul);284160;2003;127.932;pop, R&B;0.465;8;-9.711
+Christina Aguilera;I Turn to You;273706;1999;127.177;pop;0.47;1;-8.356
+James Morrison;You Give Me Something;213173;2006;79.753;pop, R&B;0.688;7;-6.496
+Nas;I Can;253720;2002;95.313;hip hop;0.885;6;-3.914
+Justin Timberlake;Mirrors;484146;2013;76.899;pop;0.512;5;-6.664
+Calvin Harris;Feels (feat. Pharrell Williams, Katy Perry & Big Sean);223413;2017;101.018;hip hop, pop, Dance/Electronic;0.745;11;-3.105
+Daniel Bedingfield;Gotta Get Thru This - D'N'D Radio Edit;161240;2002;133.592;pop;0.764;7;-5.076
+50 Cent;Candy Shop;209106;2005;125.173;hip hop, pop;0.574;11;-7.961
+Will Smith;Switch;197666;2020;102.516;hip hop, pop;0.9;5;-4.325
+Mark Ronson;Nothing Breaks Like a Heart (feat. Miley Cyrus);217466;2018;114.066;pop;0.794;7;-5.844
+JAY-Z;Run This Town;267520;2009;86.844;hip hop;0.924;1;-1.802
+Clean Bandit;Symphony (feat. Zara Larsson);214866;2017;122.95;pop, Dance/Electronic;0.609;0;-4.699
+Delta Goodrem;Lost Without You;248546;2003;146.301;pop;0.747;7;-6.682
+Bow Wow;Like You (feat. Ciara);205840;2005;82.017;hip hop, pop, R&B;0.6;6;-8.365
+Lloyd;You;273133;2007;130.159;hip hop, pop, R&B;0.876;5;-6.008
+Usher;More - RedOne Jimmy Joker Remix;219986;2010;125.083;hip hop, pop, R&B;0.893;7;-2.628
+Soulja Boy;Turn My Swag On;206333;2008;150.154;hip hop, pop;0.712;3;-3.104
+Disclosure;Latch;255631;2013;121.985;pop, Dance/Electronic;0.727;1;-5.456
+Avril Lavigne;When You're Gone;240493;2007;142.034;pop;0.719;4;-3.921
+Hayden James;NUMB;217296;2019;147.932;pop, Dance/Electronic;0.558;10;-7.046
+Stromae;Alors on danse - Radio Edit;206066;2010;119.951;pop;0.59;1;-9.206
+Vanessa Carlton;A Thousand Miles;237493;2002;94.931;Folk/Acoustic, pop;0.825;11;-3.862
+Kelly Clarkson;Already Gone;281560;2009;78.139;pop, R&B;0.872;9;-2.996
+Black Eyed Peas;Don't Lie;219000;2005;89.885;hip hop, pop;0.785;9;-5.299
+Rui Da Silva;Touch Me (Radio Edit) [feat. Cassandra];213133;2001;129.078;Dance/Electronic;0.922;0;-8.399
+Mary J. Blige;One;260466;2005;185.888;pop, R&B;0.874;0;-3.161
+Fabolous;Into You (feat. Tamia);295773;2003;182.12;hip hop, pop, R&B;0.538;7;-7.886
+Nickelback;When We Stand Together;190786;2011;187.961;rock, metal;0.9;10;-3.541
+Shawn Mendes;Señorita;190799;2019;116.967;pop;0.548;9;-6.049
+*NSYNC;Bye Bye Bye;200560;2000;172.656;pop;0.928;8;-4.806
+Sugababes;About You Now;212400;2007;82.499;pop, R&B;0.699;1;-6.065
+Jax Jones;You Don't Know Me - Radio Edit;213946;2016;124.007;hip hop, pop, Dance/Electronic;0.669;11;-6.054
+Usher;Caught Up;224640;2004;110.086;hip hop, pop, R&B;0.806;6;-4.606
+Girls Aloud;Jump;220360;2003;134.465;pop, Dance/Electronic;0.826;8;-6.031
+D4L;Laffy Taffy;224253;2005;77.499;hip hop, pop;0.439;7;-7.994
+Boys Like Girls;The Great Escape;206520;2007;149.934;pop;0.94;1;-4.012
+Rihanna;Russian Roulette;227533;2009;80.051;hip hop, pop, R&B;0.486;6;-5.754
+Taio Cruz;Dynamite;202613;2010;119.975;hip hop, pop;0.783;4;-3.724
+Eminem;River (feat. Ed Sheeran);221013;2017;90.09;hip hop;0.749;8;-5.916
+Finger Eleven;Paralyzer;208106;2007;106.031;rock, metal;0.939;11;-3.486
+Alessia Cara;Here;199453;2016;120.493;pop, R&B;0.822;0;-3.974
+Ed Sheeran;Take Me Back to London (feat. Stormzy);189733;2019;138.058;pop;0.762;8;-5.513
+Nelly;Dilemma;289160;2002;168.189;hip hop, pop, R&B;0.552;2;-8.074
+Linkin Park;What I've Done;205613;2007;120.119;rock, metal;0.93;5;-5.285
+Shakira;Underneath Your Clothes;224066;2001;165.508;pop, latin;0.597;8;-5.328
+Jason Derulo;Swalla (feat. Nicki Minaj & Ty Dolla $ign);216408;2017;98.064;hip hop, pop;0.817;1;-3.862
+Gabrielle;Out Of Reach;196986;2001;182.862;pop, R&B;0.48;11;-6.567
+Shop Boyz;Party Like A Rock Star;253400;2007;144.972;hip hop, pop;0.709;7;-4.633
+Kelly Clarkson;Because of You;219493;2004;139.92;pop, R&B;0.583;5;-5.284
+Drake;Pop Style;212946;2016;133.053;hip hop, pop, R&B;0.462;7;-10.027
+Cam’ron;Oh Boy;204706;2002;83.014;hip hop, pop;0.767;6;-5.586
+Enrique Iglesias;Do You Know? (The Ping Pong Song);219533;2007;114.999;pop, latin;0.759;8;-4.829
+DJ Khaled;All I Do Is Win (feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross);232506;2010;150.1;hip hop, pop;0.781;10;-3.616
+Matchbox Twenty;Bent;256133;2000;95.468;pop, rock;0.83;6;-6.814
+Just Jack;Starz In Their Eyes;295933;2006;123.802;Dance/Electronic;0.8;3;-6.731
+AJR;Weak;201160;2017;123.98;rock;0.637;5;-4.518
+Calvin Harris;Blame (feat. John Newman);212960;2014;128.024;hip hop, pop, Dance/Electronic;0.857;0;-4.078
+Linkin Park;Breaking the Habit;196906;2003;100.021;rock, metal;0.849;4;-5.218
+T.I.;Whatever You Like;249533;2008;150.053;hip hop, pop;0.687;9;-6.162
+Jennifer Lopez;Get Right;225533;2005;97.084;hip hop, pop, R&B;0.759;0;-5.096
+Mann;Buzzin Remix;224333;2011;104.029;hip hop, pop;0.939;10;-4.372
+Avril Lavigne;I'm with You;223066;2002;151.95;pop;0.406;9;-7.462
+Sam Sparro;Black & Gold - Radio Edit;212360;2008;135.968;pop, Dance/Electronic;0.703;4;-5.65
+Dido;Thank You;218360;1999;79.984;pop;0.583;1;-9.942
+Illy;Papercuts (feat. Vera Blue);255889;2016;191.863;hip hop, pop, Dance/Electronic;0.618;6;-6.304
+Basshunter;Now You're Gone - Video Edit;148186;2008;147.99;pop;0.976;1;-5.503
+Bone Thugs-N-Harmony;I Tried;287480;2007;81.995;hip hop, pop;0.71;4;-6.142
+Kanye West;All Of The Lights;299613;2010;142.113;hip hop;0.803;1;-3.284
+Blanco Brown;The Git Up;200593;2019;97.984;hip hop, country;0.678;9;-8.635
+Avicii;Without You (feat. Sandro Cavazza);181672;2017;133.993;pop, Dance/Electronic;0.858;2;-4.844
+Avicii;Lonely Together (feat. Rita Ora);181812;2017;102.977;pop, Dance/Electronic;0.666;5;-5.309
+David Guetta;Bang My Head (feat. Sia & Fetty Wap);193333;2015;108.061;hip hop, pop, Dance/Electronic;0.869;0;-3.697
+Christina Perri;A Thousand Years;285120;2011;139.028;pop;0.407;10;-7.445
+P!nk;Try;247906;2012;103.998;pop;0.628;2;-7.079
+Nicky Jam;X;172854;2019;179.968;latin;0.749;9;-5.298
+Lil Nas X;Old Town Road;113000;2019;135.998;hip hop, pop;0.53;1;-6.112
+Nelly;Ride Wit Me;291781;2000;101.875;hip hop, pop, R&B;0.7;7;-6.49
+Kanye West;Heartless;211000;2008;87.999;hip hop;0.647;10;-5.983
+Keri Hilson;Turnin Me On - Original Dirty;248066;2008;159.873;pop, R&B;0.584;1;-5.09
+Maroon 5;Animals;231013;2014;189.868;pop;0.742;4;-6.46
+Rihanna;What's My Name?;263173;2010;100.025;hip hop, pop, R&B;0.786;2;-2.959
+Craig David;Fill Me In;257200;2000;132.493;hip hop, pop, R&B;0.744;8;-6.981
+Far East Movement;Like A G6;216893;2010;124.913;hip hop, pop;0.837;3;-8.126
+The Script;Superheroes;245466;2014;166.996;pop, rock;0.885;3;-4.121
+Charli Baltimore;Down 4 U;318213;2002;83.133;pop;0.59;7;-7.442
+Chris Brown;New Flame (feat. Usher & Rick Ross);244226;2014;141.967;hip hop, pop, R&B;0.629;1;-4.292
+Rob Thomas;Lonely No More;226640;2005;171.79;pop, Folk/Acoustic;0.896;9;-3.152
+Cher Lloyd;Want U Back;214013;2011;97.954;pop, Dance/Electronic;0.893;9;-2.963
+MIKA;Love Today;235173;2006;124.484;pop;0.913;4;-4.981
+Jax Jones;All Day And Night;169303;2019;121.908;hip hop, pop, Dance/Electronic;0.782;1;-4.101
+The Pussycat Dolls;Stickwitu;207506;2005;79.918;pop, R&B;0.554;9;-6.408
+Baby Bash;Baby, I'm Back;219920;2005;100.01;hip hop, pop, R&B, latin;0.365;9;-5.461
+Gorillaz;DARE;244999;2005;120.264;hip hop;0.891;11;-5.852
+Taylor Swift;Back To December;293026;2010;141.893;pop;0.67;2;-4.663
+Rihanna;Disturbia;238626;2008;124.921;hip hop, pop, R&B;0.813;11;-4.515
+Daniel Bedingfield;If You're Not The One;257026;2002;119.998;pop;0.538;10;-7.608
+Calvin Harris;I Need Your Love (feat. Ellie Goulding);234506;2012;124.989;hip hop, pop, Dance/Electronic;0.869;8;-5.066
+Taylor Swift;Cruel Summer;178426;2019;169.994;pop;0.702;9;-5.707
+Pitbull;I Know You Want Me (Calle Ocho);237120;2009;127.045;hip hop, pop, latin;0.743;2;-5.995
+Post Malone;Circles;215280;2019;120.042;hip hop;0.762;0;-3.497
+T.I.;Live Your Life;338853;2008;159.841;hip hop, pop;0.862;11;-3.363
+Mike Posner;I Took A Pill In Ibiza - Seeb Remix;197933;2016;101.969;hip hop, pop, Dance/Electronic;0.714;7;-6.645
+Mis-Teeq;Scandalous - U.S. Radio Edit;238840;2004;99.971;pop, Dance/Electronic;0.668;0;-3.935
+Taylor Swift;Bad Blood;211933;2014;170.216;pop;0.794;7;-6.104
+Kelis;Millionaire;224933;2003;176.051;pop, R&B, Dance/Electronic;0.847;11;-6.636
+Modjo;Lady - Hear Me Tonight;307153;2001;126.041;Dance/Electronic;0.808;6;-5.627
+Usher;OMG (feat. will.i.am);269493;2010;129.998;hip hop, pop, R&B;0.745;4;-5.81
+Tyga;Rack City;203200;2012;98.986;hip hop, pop;0.339;1;-10.881
+Shontelle;Impossible;226533;2010;90.034;pop, R&B;0.624;8;-3.631
+The Supermen Lovers;Starlight - Radio Edit;234400;2001;127.487;Dance/Electronic;0.679;0;-5.079
+Ruff Endz;No More;242560;2000;97.004;R&B;0.641;10;-5.669
+Britney Spears;Toxic;198800;2003;143.04;pop;0.838;5;-3.914
+Angie Martinez;If I Could Go! (feat. Lil' Mo & Sacario);244466;2019;195.685;pop;0.643;9;-7.486
+Jason Derulo;Tip Toe (feat. French Montana);187521;2017;98.062;hip hop, pop;0.709;10;-4.547
+Paulo Londra;Adan y Eva;256971;2019;171.993;hip hop, latin, Dance/Electronic;0.709;1;-4.47
+50 Cent;P.I.M.P.;249480;2003;84.722;hip hop, pop;0.772;10;-3.024
+Ne-Yo;Let Me Love You (Until You Learn To Love Yourself);251626;2012;124.91;pop, R&B;0.677;5;-6.628
+Lil Nas X;Panini;114893;2019;153.848;hip hop, pop;0.594;5;-6.146
+Faithless;We Come 1 - Radio Edit;222435;2015;135.977;pop, Dance/Electronic;0.903;5;-10.587
+Nickelback;Savin' Me;219320;2005;164.007;rock, metal;0.815;3;-4.088
+Avril Lavigne;Nobody's Home;212413;2004;185.406;pop;0.907;5;-3.66
+Red Hot Chili Peppers;Can't Stop;269000;2002;91.455;rock;0.938;9;-3.442
+Clean Bandit;Rather Be (feat. Jess Glynne);227833;2014;120.97;pop, Dance/Electronic;0.586;11;-6.735
+Jamiroquai;Little L;295400;2001;121.906;pop;0.724;10;-5.373
+Ariana Grande;boyfriend (with Social House);186106;2019;190.097;pop;0.795;10;-3.731
+INNA;Hot - Play & Win Radio Version;217036;2010;128.0;pop;0.939;7;-6.079
+Daddy Yankee;Con Calma;193226;2019;93.989;latin;0.86;8;-2.652
+Elvis Presley;A Little Less Conversation - JXL Radio Edit Remix;211506;2002;114.999;rock, easy listening;0.97;4;-5.972
+Blue;All Rise;223546;2001;97.996;pop;0.737;5;-2.734
+Backstreet Boys;Show Me the Meaning of Being Lonely;234960;1999;167.998;pop;0.625;6;-5.088
+Jason Derulo;Talk Dirty (feat. 2 Chainz);177685;2013;100.315;hip hop, pop;0.652;6;-7.321
+Garrett Nash;i hate u, i love u (feat. olivia o'brien);251033;2016;92.6;hip hop, pop;0.275;6;-13.4
+Taylor Swift;Blank Space;231826;2014;95.997;pop;0.703;5;-5.412
+P!nk;Who Knew;208493;2006;140.004;pop;0.734;9;-4.569
+Erick Sermon;Music (feat. Marvin Gaye);223133;2001;100.01;hip hop, pop;0.466;10;-9.053
+P!nk;Stupid Girls;197173;2006;100.04;pop;0.886;4;-5.045
+Pretty Ricky;On the Hotline - Amended Version;242586;2007;92.988;hip hop, pop, R&B;0.854;10;-5.477
+Rihanna;Stay;240706;2012;111.893;hip hop, pop, R&B;0.31;9;-10.164
+Akon;Right Now (Na Na Na);240746;2008;137.982;pop;0.857;8;-4.194
+Keri Hilson;Pretty Girl Rock;243920;2010;160.014;pop, R&B;0.87;11;-5.004
+Madonna;Hung Up;337733;2005;125.02;pop;0.647;9;-7.695
+Lil Baby;Yes Indeed;142273;2018;119.957;hip hop;0.346;5;-9.309
+DJ Snake;You Know You Like It;247266;2014;196.093;hip hop, pop, Dance/Electronic;0.725;5;-5.346
+Big Brovaz;Nu Flow;201480;2001;148.062;pop;0.726;7;-8.718
+Jennifer Lopez;Love Don't Cost a Thing;221226;2001;97.577;hip hop, pop, R&B;0.842;4;-5.115
+Omarion;Post to Be (feat. Chris Brown & Jhene Aiko);226580;2014;97.448;hip hop, pop, R&B;0.676;10;-5.655
+Selena Gomez;Come & Get It;231986;2013;79.979;pop;0.787;7;-4.1
+David Guetta;She Wolf (Falling to Pieces) [feat. Sia];222500;2012;129.973;hip hop, pop, Dance/Electronic;0.857;7;-2.634
+Tinashe;2 On (feat. ScHoolboy Q);227000;2014;101.013;hip hop, pop, R&B, Dance/Electronic;0.595;9;-7.51
+OneRepublic;Love Runs Out;224226;2014;120.022;pop;0.935;7;-3.752
+Missy Elliott;Work It;263226;2002;101.868;hip hop, pop, R&B;0.677;1;-5.603
+S Club 7;Have You Ever;201533;2001;139.909;pop;0.702;0;-5.734
+Lady Gaga;Telephone;220640;2009;122.014;pop;0.836;3;-5.903
+Cascada;Evacuate The Dancefloor;207200;2009;127.029;hip hop, pop, Dance/Electronic;0.702;0;-5.87
+Swedish House Mafia;Save The World;213337;2011;126.879;pop, Dance/Electronic;0.665;0;-7.598
+Sheck Wes;Mo Bamba;183906;2018;146.034;hip hop;0.625;4;-5.266
+Avril Lavigne;Sk8er Boi;204000;2002;149.937;pop;0.9;0;-4.417
+3 Doors Down;When I'm Gone;260333;2002;148.095;pop, rock, metal;0.768;7;-5.611
+Black Eyed Peas;My Humps;326960;2005;123.95;hip hop, pop;0.682;1;-5.924
+Drake;Nice For What;210746;2018;93.372;hip hop, pop, R&B;0.909;8;-6.474
+Dave;Location (feat. Burna Boy);241293;2019;109.979;hip hop;0.496;9;-5.969
+Ariana Grande;One Last Time;197266;2014;125.026;pop;0.593;8;-5.036
+Katy Perry;Last Friday Night (T.G.I.F.);230746;2012;126.03;pop;0.815;3;-3.796
+Jennifer Lopez;Play;211493;2001;104.719;hip hop, pop, R&B;0.729;1;-4.229
+Pitbull;Time of Our Lives;229360;2014;124.022;hip hop, pop, latin;0.802;1;-5.797
+Timbaland;Apologize;184400;2007;118.016;hip hop, pop, R&B;0.604;8;-6.017
+Ed Sheeran;Don't;219840;2014;95.049;pop;0.608;1;-7.008
+Iggy Azalea;Black Widow;209423;2014;163.99;hip hop, pop;0.72;11;-3.753
+Alex & Sierra;Little Do You Know;185200;2014;145.879;pop;0.292;0;-8.554
+Sia;Elastic Heart;257200;2014;130.075;pop;0.791;9;-4.998
+Pitbull;Don't Stop the Party (feat. TJR);206120;2012;127.008;hip hop, pop, latin;0.958;4;-3.617
+Sam Smith;Too Good At Goodbyes;201000;2017;91.873;pop;0.372;5;-8.237
+E-40;U and Dat (feat. T. Pain & Kandi Girl);202720;2006;99.992;hip hop, pop;0.484;6;-7.448
+Black Eyed Peas;Hey Mama;214893;2003;100.15;hip hop, pop;0.866;4;-6.345
+Pitbull;Hey Baby (Drop It to the Floor) (feat. T-Pain);234453;2011;128.024;hip hop, pop, latin;0.912;10;-3.428
+Janet Jackson;Doesn't Really Matter;265026;2001;99.316;pop, R&B;0.796;5;-3.081
+Mabel;Don't Call Me Up;178480;2019;98.994;pop, Dance/Electronic;0.881;9;-2.853
+Pitbull;Give Me Everything (feat. Ne-Yo, Afrojack & Nayer);252306;2011;129.024;hip hop, pop, latin;0.939;8;-3.206
+NLE Choppa;Shotta Flow (feat. Blueface) [Remix];176631;2019;120.08;hip hop;0.511;2;-4.768
+21 Savage;a lot;288624;2018;145.972;hip hop;0.636;1;-7.643
+Gareth Gates;Anyone of Us (Stupid Mistake);227866;2003;106.986;pop;0.72;1;-6.061
+Cheat Codes;No Promises (feat. Demi Lovato);223503;2017;112.956;pop, Dance/Electronic;0.667;10;-5.445
+Gabriella Cilmi;Sweet About Me;202133;2008;131.977;R&B;0.701;6;-5.035
+Kelly Rowland;Stole;249293;2002;79.993;hip hop, pop, R&B;0.718;7;-4.984
+Rita Ora;R.I.P. (feat. Tinie Tempah);228026;2012;72.022;hip hop, pop, Dance/Electronic;0.831;11;-3.443
+Pharrell Williams;Frontin' (feat. Jay-Z) - Club Mix;236506;2003;102.009;hip hop, pop;0.404;9;-5.913
+The Roots;The Seed (2.0);267933;2002;111.121;hip hop;0.957;7;-2.281
+Lost Frequencies;Are You With Me - Radio Edit;138842;2014;121.03;pop, Dance/Electronic;0.574;5;-9.882
+Alessia Cara;Scars To Your Beautiful;230226;2016;194.169;pop, R&B;0.739;0;-5.74
+Billie Eilish;lovely (with Khalid);200185;2018;115.284;pop, Dance/Electronic;0.296;4;-10.109
+Taylor Swift;You Belong With Me;231146;2008;129.964;pop;0.771;6;-4.424
+DB Boulevard;Point Of View - Radio Edit;231166;2018;129.006;Dance/Electronic;0.715;6;-6.854
+Baha Men;Who Let The Dogs Out;198400;2000;129.221;R&B;0.887;0;-4.505
+Usher;Pop Ya Collar - Radio Edit;210813;2016;106.957;hip hop, pop, R&B;0.8;5;-3.944
+Daya;Sit Still, Look Pretty;202221;2016;181.994;rock, pop, Dance/Electronic;0.739;2;-4.081
+P!nk;U + Ur Hand;214386;2006;141.04;pop;0.891;0;-3.688
+A.R. Rahman;Jai Ho! (You Are My Destiny);222400;2009;136.202;set();0.941;8;-3.919
+Katy Perry;Unconditionally;228878;2013;129.003;pop;0.729;7;-4.813
+Kylie Minogue;Spinning Around;207866;2000;120.043;pop, Dance/Electronic;0.662;6;-7.645
+Rae Sremmurd;Powerglide (feat. Juicy J) - From SR3MM;332300;2018;173.948;hip hop, pop;0.831;1;-4.75
+Flo Rida;My House;192190;2015;94.006;hip hop, pop;0.702;7;-4.792
+Dr. Dre;The Next Episode;161506;1999;95.295;hip hop;0.909;10;-2.429
+John Legend;Green Light (feat. André 3000);284186;2008;77.506;pop, R&B;0.882;9;-5.59
+MKTO;Classic;175426;2012;102.071;hip hop, pop;0.791;1;-4.689
+R. City;Locked Away (feat. Adam Levine);227480;2015;118.413;pop;0.671;1;-5.709
+Britney Spears;If U Seek Amy;216520;2008;129.954;pop;0.587;4;-7.296
+The Game;My Life;320893;2008;148.113;hip hop, pop;0.766;11;-5.018
+Ciara;Like a Boy;237053;2006;132.035;pop, R&B;0.724;0;-5.751
+David Guetta;Play Hard (feat. Ne-Yo & Akon);201000;2012;130.072;hip hop, pop, Dance/Electronic;0.921;8;-1.702
+Lil' Kim;Magic Stick;359973;2019;92.98;hip hop, pop, R&B;0.498;2;-7.872
+Shakira;Hips Don't Lie (feat. Wyclef Jean);218093;2005;100.024;pop, latin;0.824;10;-5.892
+Years & Years;King;215360;2015;119.977;pop, Dance/Electronic;0.848;4;-4.125
+DMX;Party Up;268866;1999;201.936;hip hop, pop;0.931;11;-3.302
+Miley Cyrus;Wrecking Ball;221360;2013;119.964;pop;0.422;5;-6.262
+Travis Scott;SICKO MODE;312820;2018;155.008;hip hop, Dance/Electronic;0.73;8;-3.714
+Nicki Minaj;Bed Of Lies;269946;2014;86.01;hip hop, pop;0.67;11;-5.779
+Olly Murs;Troublemaker (feat. Flo Rida);185586;2012;106.008;pop, Dance/Electronic;0.863;0;-3.689
+Little Mix;Black Magic;211773;2015;111.987;pop;0.896;4;-4.467
+The Weeknd;Starboy;230453;2016;186.054;pop, R&B;0.594;7;-7.028
+Toby Keith;As Good As I Once Was;227840;2005;119.075;country;0.87;5;-4.461
+D4L;Laffy Taffy;224253;2005;77.499;hip hop, pop;0.439;7;-7.994
+Cashmere Cat;Miss You (with Major Lazer & Tory Lanez);186231;2018;100.028;pop, rock;0.641;1;-4.502
+Christina Milian;Dip It Low;197186;2004;169.131;hip hop, pop, R&B;0.722;11;-4.207
+Trey Songz;Can't Help but Wait;206413;2007;94.977;hip hop, pop, R&B;0.699;8;-5.564
+Justin Timberlake;"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")";236001;2016;113.03;pop;0.83;0;-5.715
+The Script;Hall of Fame (feat. will.i.am);202533;2012;84.786;pop, rock;0.873;10;-4.343
+Sia;The Greatest (feat. Kendrick Lamar);210226;2016;191.944;pop;0.725;1;-6.127
+Kid Cudi;Day 'N' Nite (Nightmare);221240;2009;138.018;hip hop;0.443;11;-6.359
+Bryson Tiller;Exchange;194613;2015;160.108;hip hop, pop, R&B;0.433;6;-10.598
+Ludacris;Southern Hospitality (Featuring Pharrell);300933;2000;95.158;hip hop, pop;0.896;0;-4.719
+Sia;Chandelier;216120;2014;117.089;pop;0.787;1;-2.88
+Chris Brown;With You;252120;2007;86.009;hip hop, pop, R&B;0.693;3;-4.298
+blackbear;do re mi;212027;2017;111.002;hip hop, pop, Dance/Electronic;0.593;8;-6.35
+Katy Perry;The One That Got Away;227333;2012;133.962;pop;0.792;1;-4.023
+Craig David;Fill Me In;257200;2000;132.493;hip hop, pop, R&B;0.744;8;-6.981
+Brian McFadden;Almost Here;229826;2004;77.984;set();0.452;9;-7.324
+Maroon 5;Don't Wanna Know (feat. Kendrick Lamar);214265;2018;100.047;pop;0.61;7;-6.124
+Akon;Lonely;235800;2004;90.098;pop;0.532;5;-7.88
+Gym Class Heroes;Ass Back Home (feat. Neon Hitch);222213;2011;130.034;hip hop, pop;0.838;10;-4.289
+Selena Gomez & The Scene;Love You Like A Love Song;188453;2011;117.009;pop, Dance/Electronic;0.678;1;-3.87
+Taio Cruz;Higher;187626;2010;128.027;hip hop, pop;0.907;8;-5.069
+Scissor Sisters;Comfortably Numb;266040;2004;116.972;pop, rock, Dance/Electronic;0.924;7;-6.466
+DJ Snake;Middle;220573;2016;104.981;hip hop, pop, Dance/Electronic;0.7;9;-5.331
+Logic;Everyday;204746;2018;149.908;hip hop, pop;0.741;1;-4.099
+Bad Bunny;Callaita;250533;2019;176.169;latin;0.624;2;-4.773
+Geri Halliwell;It's Raining Men;254640;2001;136.482;pop;0.929;5;-6.03
+Sean Paul;Gimme the Light;228000;2002;107.288;hip hop, pop;0.761;2;-5.529
+Paloma Faith;Only Love Can Hurt Like This;232893;2014;90.99;pop, R&B, Dance/Electronic;0.885;8;-4.528
+Diddy;I Need a Girl (Pt. 2) [feat. Loon, Ginuwine & Mario Winans];285586;2004;199.764;hip hop, pop;0.471;1;-7.392
+Tinie Tempah;Girls Like (feat. Zara Larsson);196000;2016;120.028;hip hop, pop, Dance/Electronic;0.804;0;-3.406
+Mariah Carey;Don't Forget About Us - Radio Edit;233866;2005;143.555;pop, R&B;0.529;10;-6.816
+3 Doors Down;Kryptonite;233933;2000;99.009;pop, rock, metal;0.865;11;-5.708
+Melanie C;Never Be The Same Again;294200;1999;160.067;pop, Dance/Electronic;0.685;3;-5.153
+Fall Out Boy;Thnks fr th Mmrs;203506;2007;154.837;rock;0.891;10;-5.057
+Britney Spears;I'm a Slave 4 U;203600;2001;110.027;pop;0.843;5;-3.579
+Anne-Marie;Ciao Adios;200104;2017;106.083;pop, Dance/Electronic;0.882;4;-3.078
+David Guetta;Without You (feat. Usher);208133;2012;127.884;hip hop, pop, Dance/Electronic;0.614;2;-3.727
+The Streets;Fit but You Know It;254266;2004;172.302;hip hop, Dance/Electronic;0.844;6;-1.729
+Billie Eilish;Bored;180933;2017;119.959;pop, Dance/Electronic;0.318;7;-12.695
+Silentó;Watch Me (Whip / Nae Nae);185131;2015;139.982;hip hop;0.768;8;-8.522
+Cassie;Me & U;192213;2006;99.99;pop, R&B;0.454;8;-4.802
+Ariana Grande;no tears left to cry;205920;2018;121.993;pop;0.713;9;-5.507
+Kanye West;Mercy;329320;2012;139.993;hip hop;0.496;6;-9.381
+Rihanna;Diamonds;225146;2012;91.972;hip hop, pop, R&B;0.71;11;-4.92
+Britney Spears;Gimme More;251240;2007;113.324;pop;0.844;2;-3.131
+Kylie Minogue;Love at First Sight;238266;2001;124.994;pop, Dance/Electronic;0.774;3;-6.066
+Frank Ocean;Pink + White;184516;2016;159.738;hip hop, pop, R&B;0.552;9;-7.45
+DMX;X Gon' Give It To Ya;217586;2007;95.027;hip hop, pop;0.899;10;-3.09
+Akon;Smack That;212360;2006;118.988;pop;0.743;5;-5.166
+Busta Rhymes;I Know What You Want (feat. Flipmode Squad);324306;2002;85.996;hip hop, pop;0.759;6;-4.315
+Amanda Perez;Angel;218760;2003;143.772;pop, R&B;0.54;0;-6.849
+Akon;Don't Matter;293066;2006;125.139;pop;0.454;2;-6.035
+Olly Murs;Up (feat. Demi Lovato);224293;2014;114.948;pop, Dance/Electronic;0.845;9;-4.676
+James Blunt;Goodbye My Lover;258653;2005;89.567;pop;0.261;4;-12.591
+Clean Bandit;Tears (feat. Louisa Johnson);225914;2016;130.037;pop, Dance/Electronic;0.77;5;-3.645
+LeAnn Rimes;I Need You;229826;2001;144.705;pop, country;0.736;7;-7.124
+Drake;One Dance;173986;2016;103.967;hip hop, pop, R&B;0.625;1;-5.609
+Usher;Love in This Club (feat. Young Jeezy);259720;2008;140.012;hip hop, pop, R&B;0.712;0;-5.976
+Baby Bash;Suga Suga;239026;2003;82.331;hip hop, pop, R&B, latin;0.748;5;-3.041
+Delta Goodrem;Born to Try;251280;2003;133.838;pop;0.589;8;-6.813
+Kanye West;Gold Digger;207626;2005;93.034;hip hop;0.696;1;-5.572
+Marshmello;FRIENDS;202620;2018;95.079;pop, Dance/Electronic;0.88;9;-2.384
+Nick Jonas;Close;234213;2016;123.996;pop;0.623;6;-5.273
+Milky Chance;Stolen Dance;313684;2014;114.016;set();0.581;11;-8.813
+Ayo & Teo;Rolex;238586;2017;144.946;hip hop, pop;0.886;1;-2.512
+Vengaboys;Shalala Lala;214819;2000;124.017;pop;0.901;2;-5.802
+Sebastian Ingrosso;Reload - Radio Edit;221272;2013;128.045;pop, Dance/Electronic;0.724;9;-4.633
+David Guetta;When Love Takes Over (feat. Kelly Rowland);191000;2010;129.967;hip hop, pop, Dance/Electronic;0.862;11;-4.614
+Flo Rida;Wild Ones (feat. Sia);232946;2012;127.075;hip hop, pop;0.86;5;-5.324
+Melanie C;I Turn To You;352173;1999;135.205;pop, Dance/Electronic;0.803;1;-5.825
+The Pussycat Dolls;I Hate This Part;218400;2008;111.572;pop, R&B;0.612;5;-4.371
+Liam Payne;Strip That Down;204502;2017;106.028;pop;0.485;6;-5.595
+Kings of Leon;Sex on Fire;203346;2008;153.398;rock;0.905;9;-5.653
+Ja Rule;Mesmerize;278693;2002;90.079;hip hop, pop, R&B;0.646;1;-6.653
+6ix9ine;GUMMO;157643;2018;157.036;hip hop;0.775;2;-4.926
+Eminem;Shake That;274440;2005;107.005;hip hop;0.643;1;-5.785
+Ronan Keating;Life Is A Rollercoaster;234826;2000;118.981;pop, rock;0.791;0;-8.923
+Leona Lewis;Run;314720;2007;142.365;pop, R&B;0.462;5;-6.166
+Calvin Harris;Outside (feat. Ellie Goulding);227266;2014;128.035;hip hop, pop, Dance/Electronic;0.823;2;-4.123
+Tyga;Taste (feat. Offset);232959;2018;97.994;hip hop, pop;0.559;0;-7.442
+JAY-Z;Big Pimpin';283066;1999;138.083;hip hop;0.814;11;-6.307
+Rob $tone;Chill Bill (feat. J. Davi$ & Spooks);177184;2016;108.034;hip hop;0.427;6;-10.028
+Kent Jones;Don't Mind;198236;2016;158.777;hip hop;0.771;8;-4.503
+ZAYN;PILLOWTALK;203686;2016;124.909;pop, Dance/Electronic;0.702;11;-4.271
+Dua Lipa;IDGAF;217946;2017;97.028;pop;0.544;7;-5.975
+Drake;Jumpman;205879;2015;142.079;hip hop, pop, R&B;0.558;1;-7.448
+Lily Allen;The Fear;207120;2009;134.002;pop;0.847;10;-6.948
+The Corrs;Breathless;207506;2000;126.988;pop, Folk/Acoustic;0.82;11;-7.754
+Jack White;Another Way to Die;262240;2007;141.933;rock, blues;0.765;4;-4.23
+Beyoncé;Deja Vu (feat. Jay-Z);240280;2007;105.253;pop, R&B;0.746;7;-4.941
+Rae Sremmurd;Swang;208120;2016;139.992;hip hop, pop;0.314;8;-9.319
+B.o.B;Airplanes (feat. Hayley Williams of Paramore);180480;2010;93.033;hip hop, pop;0.867;6;-4.285
+The Weeknd;"Earned It (Fifty Shades Of Grey) - From The ""Fifty Shades Of Grey"" Soundtrack";252226;2014;119.844;pop, R&B;0.381;2;-5.922
+JAY-Z;Empire State Of Mind;276920;2009;173.585;hip hop;0.956;11;-1.538
+Jason Aldean;Dirt Road Anthem;229413;2010;127.037;country;0.739;2;-5.068
+P!nk;Raise Your Glass;202960;2010;122.019;pop;0.709;7;-5.006
+P!nk;Try;247906;2012;103.998;pop;0.628;2;-7.079
+Limp Bizkit;Rollin' (Air Raid Vehicle);213760;2000;96.306;metal;0.933;1;-3.358
+Coldplay;Hymn for the Weekend;258266;2015;90.027;rock, pop;0.693;0;-6.487
+Gwen Stefani;What You Waiting For?;221226;2004;136.027;pop, R&B;0.948;5;-2.557
+LL Cool J;Luv U Better;287000;2002;95.022;hip hop, pop, R&B;0.806;6;-3.9
+Moloko;The Time Is Now;318280;2000;127.962;pop, Dance/Electronic;0.743;9;-10.644
+Drake;Passionfruit;298940;2017;111.98;hip hop, pop, R&B;0.463;11;-11.377
+G-Unit;Wanna Get To Know You;265026;2003;76.91;hip hop, pop;0.826;10;-3.651
+Ludacris;Stand Up;213760;2003;99.057;hip hop, pop;0.84;6;-4.855
+Evanescence;Call Me When You're Sober;214706;2006;93.41;metal;0.883;7;-4.094
+Kesha;Blah Blah Blah (feat. 3OH!3);172053;2010;120.003;pop, Dance/Electronic;0.836;10;-3.173
+Kungs;This Girl - Kungs Vs. Cookin' On 3 Burners;195561;2016;121.969;pop, Dance/Electronic;0.705;0;-4.684
+YG;BIG BANK (feat. 2 Chainz, Big Sean, Nicki Minaj);237240;2018;203.911;hip hop, pop;0.346;1;-7.709
+OneRepublic;Wherever I Go;169773;2016;99.961;pop;0.689;10;-6.444
+DJ Khaled;I'm On One;296146;2011;149.33;hip hop, pop;0.807;11;-3.499
+Jim Jones;We Fly High;236080;2006;120.226;hip hop, pop;0.8;1;-6.564
+KALEO;Way down We Go;219560;2015;81.663;rock, classical;0.578;10;-5.798
+Flipp Dinero;Leave Me Alone;195637;2019;150.024;hip hop, pop;0.743;7;-2.806
+Natti Natasha;Criminal;232549;2017;79.997;pop, latin;0.813;2;-3.023
+BTS;Boy With Luv (feat. Halsey);229773;2019;119.991;pop;0.862;11;-4.757
+Busta Rhymes;I Know What You Want (feat. Flipmode Squad);324306;2002;85.996;hip hop, pop;0.759;6;-4.315
+JAY-Z;Dirt Off Your Shoulder;245173;2003;163.971;hip hop;0.655;1;-7.147
+OneRepublic;Rich Love (with Seeb);201256;2017;104.592;pop;0.872;1;-3.641
+Lana Del Rey;Doin' Time;202192;2019;144.982;pop;0.559;7;-11.132
+Soulja Boy;Crank That (Soulja Boy);221933;2007;140.141;hip hop, pop;0.74;0;-2.18
+Iyaz;Replay;182306;2009;91.031;hip hop, pop;0.751;9;-6.323
+Eminem;Like Toy Soldiers;296880;2004;79.178;hip hop;0.768;8;-3.489
+Special D.;Come With Me - Radio Edit;185133;2004;139.982;pop;0.999;7;-5.077
+Basement Jaxx;Romeo;217493;2001;126.853;pop, Dance/Electronic;0.829;2;-4.171
+Chingy;Holidae In;314400;2003;153.067;hip hop, pop, R&B;0.791;7;-5.909
+Lil' Kim;The Jump Off (feat. Mr. Cheeks) - Remix;234800;2003;104.946;hip hop, pop, R&B;0.752;1;-8.831
+Ariana Grande;The Way;227026;2013;82.324;pop;0.878;5;-3.208
+Snoop Dogg;Signs;236813;2004;112.955;hip hop, pop;0.713;7;-5.308
+Grimes;Oblivion;251266;2012;155.974;pop, rock, Dance/Electronic;0.529;2;-8.838
+Rihanna;Needed Me;191600;2016;110.898;hip hop, pop, R&B;0.314;5;-8.091
+MAGIC!;Rude;224840;2014;144.033;set();0.758;1;-4.993
+Nelly;Country Grammar (Hot Shit);287000;2000;162.831;hip hop, pop, R&B;0.664;2;-6.822
+Yung Joc;It's Goin' Down (feat. Nitti);241840;2006;84.003;hip hop, pop;0.577;1;-7.702
+Shakira;Whenever, Wherever;196160;2001;107.657;pop, latin;0.832;1;-4.862
+Kehlani;Nights Like This (feat. Ty Dolla $ign);201787;2019;146.163;hip hop, pop, R&B;0.725;8;-5.131
+Childish Gambino;3005;235662;2013;82.92;hip hop;0.463;6;-6.542
+Kanye West;Diamonds From Sierra Leone - Remix;233400;2005;97.043;hip hop;0.814;7;-3.768
+Cardi B;Bodak Yellow;223962;2017;125.022;hip hop, pop;0.723;11;-5.792
+Gorgon City;Ready For Your Love;198880;2014;121.939;pop, Dance/Electronic;0.753;5;-7.038
+ScHoolboy Q;Hands on the Wheel (feat. Asap Rocky);197131;2012;127.839;hip hop, pop;0.784;1;-7.471
+Black Eyed Peas;Meet Me Halfway;284373;2009;130.0;hip hop, pop;0.629;11;-6.857
+Kevin Gates;2 Phones;240000;2016;121.918;hip hop, pop;0.681;7;-5.267
+Daniel Bedingfield;If You're Not The One;257026;2002;119.998;pop;0.538;10;-7.608
+Calvin Harris;One Kiss (with Dua Lipa);214846;2018;123.994;hip hop, pop, Dance/Electronic;0.862;9;-3.24
+Cardi B;Please Me;200889;2019;133.992;hip hop, pop;0.57;1;-6.711
+Kelis;Trick Me;206106;2003;107.17;pop, R&B, Dance/Electronic;0.72;1;-3.347
+Calvin Harris;Giant (with Rag'n'Bone Man);229184;2019;122.015;hip hop, pop, Dance/Electronic;0.887;1;-4.311
+Nicole Scherzinger;Don't Hold Your Breath;197440;2011;110.955;pop, Dance/Electronic;0.797;5;-6.096
+James Arthur;Impossible;209440;2013;169.533;pop;0.695;0;-4.782
+Lady Gaga;LoveGame;216333;2008;105.024;pop;0.678;6;-5.611
+Jennifer Lopez;I'm Gonna Be Alright (feat. Nas);172240;2002;93.401;hip hop, pop, R&B;0.69;10;-4.382
+Arctic Monkeys;When The Sun Goes Down;202133;2006;169.152;rock;0.875;11;-4.758
+Ludacris;Splash Waterfalls;290760;2003;145.894;hip hop, pop;0.846;11;-6.102
+The Chemical Brothers;Galvanize;393813;2005;104.003;Dance/Electronic;0.714;7;-3.681
+Dynoro;In My Mind;184560;2018;125.905;pop, Dance/Electronic;0.77;6;-5.335
+Imagine Dragons;Thunder;187146;2017;167.88;rock;0.81;0;-4.749
+Skillet;Monster;178013;2009;134.992;rock, pop, metal;0.957;8;-2.336
+Justin Timberlake;My Love (feat. T.I.);276160;2006;119.952;pop;0.68;11;-5.881
+Disclosure;Latch;255631;2013;121.985;pop, Dance/Electronic;0.727;1;-5.456
+G-Eazy;Him & I;268866;2017;87.908;hip hop, pop;0.731;2;-6.343
+Benny Benassi;Satisfaction (Isak Original Extended) - Benny Benassi Presents The Biz;285570;2003;130.017;pop, Dance/Electronic;0.698;11;-3.626
+Amy Winehouse;Rehab;214946;2006;71.815;R&B;0.558;0;-13.609
+Jeremih;Don't Tell 'Em;266840;2015;98.052;hip hop, pop, R&B;0.527;2;-5.225
+Mustard;Pure Water (with Migos);192470;2019;202.015;hip hop, pop;0.559;0;-5.545
+Desiigner;Panda;246761;2016;144.833;hip hop, pop;0.766;10;-4.943
+The Weeknd;In The Night;235653;2015;167.939;pop, R&B;0.682;7;-4.94
+Nicki Minaj;Pound The Alarm;205640;2012;125.055;hip hop, pop;0.858;9;-3.686
+Justin Bieber;Beauty And A Beat;227986;2012;128.003;pop;0.843;0;-4.831
+Imagine Dragons;Whatever It Takes;201240;2017;134.945;rock;0.655;10;-5.021
+Jessica Simpson;Irresistible;194026;2001;93.013;pop, R&B;0.965;8;-2.771
+Florence + The Machine;Spectrum (Say My Name) - Calvin Harris Remix;218190;2011;126.092;rock, pop, Dance/Electronic;0.946;11;-3.85
+50 Cent;21 Questions;224440;2003;92.729;hip hop, pop;0.813;6;-3.846
+Justin Bieber;Friends (with BloodPop®);189466;2017;104.99;pop;0.739;8;-5.35
+The All-American Rejects;Dirty Little Secret;193653;2005;143.853;rock, pop;0.955;10;-4.253
+BLACKPINK;Kill This Love;189052;2019;131.98;pop;0.861;2;-4.141
+Atomic Kitten;The Tide Is High - Radio Mix;206093;2002;103.997;pop;0.649;7;-4.127
+Sam Smith;Stay With Me;172723;2014;84.094;pop;0.42;0;-6.444
+Staind;It's Been Awhile;264706;2001;116.529;rock, metal;0.774;6;-4.054
+Alexandra Stan;Mr. Saxobeat;195105;2011;126.976;pop, Dance/Electronic;0.931;11;-4.152
+Ellie Goulding;"Love Me Like You Do - From ""Fifty Shades Of Grey""";252534;2015;189.857;pop, rock, Dance/Electronic;0.606;8;-6.646
+B2K;Bump, Bump, Bump (feat. P. Diddy);282773;2003;95.508;hip hop, pop, R&B;0.68;1;-6.02
+Missy Elliott;4 My People (feat. Eve);289373;2001;121.392;hip hop, pop, R&B;0.701;1;-7.503
+Bastille;Of The Night;214205;2013;125.01;pop, rock;0.829;5;-7.2
+Robbie Williams;Radio;233600;2004;130.015;pop, rock;0.874;5;-5.409
+Will Young;Leave Right Now;214733;2003;81.931;pop;0.445;6;-8.674
+50 Cent;Disco Inferno;214226;2005;97.018;hip hop, pop;0.659;3;-4.763
+Jonas Blue;Perfect Strangers;196613;2016;117.986;pop, Dance/Electronic;0.819;1;-5.307
+Drake;Jumpman;205879;2015;142.079;hip hop, pop, R&B;0.553;1;-7.286
+Nick Lachey;What's Left Of Me;244613;2006;149.965;pop;0.742;7;-5.665
+La Roux;Bulletproof;205733;2009;123.016;pop, Dance/Electronic;0.882;3;-2.771
+Alok;Hear Me Now;192846;2016;121.996;pop, Dance/Electronic;0.43;11;-7.757
+Gwen Stefani;Hollaback Girl;199853;2004;110.007;pop, R&B;0.916;10;-2.221
+Sam Smith;"Writing's On The Wall - From ""Spectre"" Soundtrack";278987;2015;81.418;pop;0.302;5;-8.19
+Dennis Lloyd;Nevermind;156600;2017;99.977;pop;0.688;5;-8.339
+David Guetta;This One's for You (feat. Zara Larsson) (Official Song UEFA EURO 2016);207272;2016;110.169;hip hop, pop, Dance/Electronic;0.915;9;-3.456
+Ronan Keating;Lovin' Each Day;212973;2000;106.676;pop, rock;0.899;1;-6.261
+Bob Sinclar;Rock This Party - Everybody Dance Now;245466;2006;128.009;pop, Dance/Electronic;0.823;5;-3.708
+Jonas Brothers;Sucker;181026;2019;137.958;pop;0.734;1;-5.065
+Eminem;Mockingbird;250760;2004;84.039;hip hop;0.678;0;-3.798
+T-Pain;Buy U a Drank (Shawty Snappin') (feat. Yung Joc);227960;2007;80.001;hip hop, pop, R&B;0.55;1;-8.137
+Timbaland;Carry Out (Featuring Justin Timberlake);232466;2009;115.68;hip hop, pop, R&B;0.574;10;-6.693
+Christina Aguilera;"Lady Marmalade - From ""Moulin Rouge"" Soundtrack";264893;2001;109.919;pop;0.801;5;-3.769
+Jonas Brothers;Burnin' Up;175093;2008;114.03;pop;0.954;2;-3.462
+Ashanti;Rock Wit U (Awww Baby);209120;2003;94.998;hip hop, pop, R&B;0.797;4;-3.006
+Calvin Harris;Let's Go (feat. Ne-Yo);232800;2012;128.016;hip hop, pop, Dance/Electronic;0.882;4;-2.932
+XXXTENTACION;Jocelyn Flores;119133;2017;134.021;hip hop;0.391;0;-9.144
+DJ Casper;Cha Cha Slide - Hardino Mix;222146;2004;131.012;set();0.911;11;-6.722
+Tinie Tempah;Written in the Stars (feat. Eric Turner);207653;2010;91.881;hip hop, pop, Dance/Electronic;0.931;7;-4.188
+Gavin DeGraw;In Love With a Girl;206000;2008;161.905;pop, Folk/Acoustic;0.906;3;-4.8
+Keane;Is It Any Wonder?;186173;2006;129.352;pop;0.955;11;-2.771
+Eric Prydz;Call on Me - Radio Mix;171360;2004;126.342;pop, Dance/Electronic;0.837;10;-6.518
+Shayne Ward;That's My Goal;219600;2006;68.637;pop;0.508;2;-5.966
+Far East Movement;Rocketeer;211253;2010;96.005;hip hop, pop;0.845;4;-6.115
+Chord Overstreet;Hold On;198853;2017;119.949;pop, Folk/Acoustic;0.443;2;-9.681
+Galantis;Runaway (U & I);227073;2015;126.008;pop, Dance/Electronic;0.805;1;-4.119
+S Club 7;Don't Stop Movin';233626;2001;117.033;pop;0.672;7;-6.133
+Nelly Furtado;Maneater;258893;2006;132.722;hip hop, pop, latin;0.777;6;-4.81
+Girls Aloud;Love Machine;205360;2004;116.02;pop, Dance/Electronic;0.95;7;-4.21
+Little Mix;Wings;219733;2012;114.962;pop;0.875;7;-3.141
+David Guetta;Turn Me On (feat. Nicki Minaj);199680;2012;127.96;hip hop, pop, Dance/Electronic;0.793;8;-2.266
+Ludacris;How Low;201586;2010;143.96;hip hop, pop;0.498;1;-6.977
+Razorlight;In The Morning;222453;2006;124.191;rock, pop;0.855;4;-3.495
+Rihanna;We Found Love;215226;2011;127.985;hip hop, pop, R&B;0.766;1;-4.485
+James Morrison;I Won't Let You Go;229303;2011;105.955;pop, R&B;0.611;0;-6.427
+Adam Lambert;Ghost Town;208330;2015;119.955;pop;0.736;4;-5.709
+Kanye West;Flashing Lights;237506;2007;90.482;hip hop;0.628;6;-7.578
+LMFAO;Sexy And I Know It;199480;2011;130.021;hip hop, pop, Dance/Electronic;0.861;7;-4.225
+Sigala;Wish You Well;205653;2019;124.975;pop, Dance/Electronic;0.895;5;-3.787
+Maroon 5;Misery;216200;2010;102.978;pop;0.81;4;-4.874
+Khalid;Better;229412;2018;97.565;pop, R&B;0.585;0;-10.332
+Storm Queen;Look Right Through - MK Vocal Edit;150400;2014;119.995;Dance/Electronic;0.815;0;-8.035
+Ellie Goulding;On My Mind;213445;2015;154.943;pop, rock, Dance/Electronic;0.688;2;-6.607
+Halsey;Bad At Love;181279;2017;118.384;pop, Dance/Electronic;0.751;0;-3.539
+Christina Perri;Jar of Hearts;246587;2011;74.541;pop;0.348;3;-6.142
+Tom Walker;Leave a Light On;185863;2017;68.976;rock, pop;0.624;5;-5.946
+Halsey;Without Me;201660;2018;136.041;pop, Dance/Electronic;0.488;6;-7.05
+Rihanna;Rude Boy;222920;2009;173.906;hip hop, pop, R&B;0.75;11;-4.496
+Ricky Martin;Nobody Wants to Be Lonely (with Christina Aguilera);252706;2008;100.851;pop, latin;0.854;10;-5.02
+Mary J. Blige;No More Drama;326240;2001;97.914;pop, R&B;0.837;6;-6.818
+Panjabi MC;Mundian to Bach Ke;244666;2003;98.077;World/Traditional, hip hop;0.879;8;-4.951
+Fifth Harmony;All In My Head (Flex) (feat. Fetty Wap);210573;2016;95.04;pop;0.791;0;-5.194
+Jason Derulo;Wiggle (feat. Snoop Dogg);193295;2013;81.946;hip hop, pop;0.621;9;-6.886
+Justin Timberlake;SexyBack (feat. Timbaland);242733;2006;117.0;pop;0.583;7;-5.562
+Khalid;Love Lies (with Normani);201707;2018;143.955;pop, R&B;0.648;6;-5.626
+Rita Ora;I Will Never Let You Down;203466;2014;128.011;hip hop, pop, Dance/Electronic;0.801;4;-3.215
+OneRepublic;All The Right Moves;238000;2009;146.024;pop;0.948;0;-3.527
+Camila Cabello;Havana (feat. Young Thug);216896;2017;104.992;pop;0.517;7;-4.323
+DJ Fresh;Hot Right Now (feat. RITA ORA) - Radio Edit;182333;2012;175.017;pop, Dance/Electronic;0.972;4;-1.569
+Lil Wayne;Right Above It;271946;2010;76.052;hip hop, pop;0.841;3;-4.348
+Trey Songz;Bottoms Up (feat. Nicki Minaj);242013;2010;74.008;hip hop, pop, R&B;0.601;1;-5.283
+Rob $tone;Chill Bill (feat. J. Davi$ & Spooks);177184;2016;108.034;hip hop;0.427;6;-10.028
+Flo Rida;GDFR (feat. Sage the Gemini & Lookas);190185;2015;145.889;hip hop, pop;0.827;5;-4.036
+Train;Drive By;195973;2012;122.028;pop;0.837;1;-3.113
+Bruno Mars;Grenade;222091;2010;110.444;pop;0.558;2;-7.273
+Destiny's Child;Bootylicious;207906;2001;103.376;pop, R&B;0.835;1;-4.386
+Nickelback;If Today Was Your Last Day;249066;2008;89.956;rock, metal;0.911;3;-5.749
+Bruno Mars;Treasure;178560;2012;116.017;pop;0.692;5;-5.28
+T.I.;Bring Em Out;216706;2004;98.579;hip hop, pop;0.891;11;-2.983
+Sam Feldt;Post Malone (feat. RANI);174444;2019;107.356;pop, Dance/Electronic;0.642;7;-3.87
+Tame Impala;The Less I Know The Better;216320;2015;116.879;metal;0.74;4;-4.083
+Mýa;Case Of The Ex (Whatcha Gonna Do);236906;2000;98.0;pop, R&B;0.688;1;-4.715
+John Legend;All of Me;269560;2013;119.93;pop, R&B;0.264;8;-7.064
+Fat Joe;Get It Poppin' (feat. Nelly) - Radio Version;211320;2005;100.813;hip hop, pop;0.55;1;-7.558
+Panic! At The Disco;High Hopes;190946;2018;82.014;rock;0.904;5;-2.729
+Nelly;Over And Over;253933;2004;169.799;hip hop, pop, R&B;0.517;7;-10.02
+Chamillionaire;Ridin';303053;2005;143.052;hip hop, pop;0.799;8;-4.68
+Madcon;Beggin (original version);216146;2007;129.023;hip hop, pop;0.8;4;-5.144
+Drake;Headlines;235986;2011;151.894;hip hop, pop, R&B;0.566;6;-7.16
+Charlene Soraia;Wherever You Will Go;197577;2011;111.202;pop;0.115;9;-9.217
+Lykke Li;I Follow Rivers - The Magician Remix;281106;2011;122.019;pop, Dance/Electronic;0.709;9;-5.737
+Ed Sheeran;Antisocial (with Travis Scott);161746;2019;151.957;pop;0.823;5;-5.313
+Westlife;The Rose;219106;2006;109.581;pop;0.203;9;-9.706
+Selena Gomez;Same Old Love;229080;2015;98.02;pop;0.593;11;-4.01
+Ja Rule;Livin' It Up;257066;2001;106.095;hip hop, pop, R&B;0.768;6;-4.086
+MiMS;This Is Why I'm Hot;253706;2007;80.021;hip hop, pop;0.6;8;-6.349
+JAY-Z;I Just Wanna Love U (Give It 2 Me);227866;2000;98.631;hip hop;0.922;4;-5.125
+Nelly;Shake Ya Tailfeather (feat. P. Diddy & Murphy Lee) - 2016 Remaster;293666;2016;87.025;hip hop, pop, R&B;0.808;1;-4.749
+Kaiser Chiefs;Ruby;204200;2007;93.416;rock;0.939;5;-2.82
+A Boogie Wit da Hoodie;Swervin (feat. 6ix9ine);189486;2018;93.023;hip hop;0.662;9;-5.239
+Puddle Of Mudd;She Hates Me;216760;2001;109.781;rock, metal;0.748;4;-5.433
+Steps;It's the Way You Make Me Feel;197360;2000;105.006;pop, Dance/Electronic;0.665;8;-5.081
+Chris Brown;Deuces (feat. Tyga & Kevin McCall);276560;2011;73.987;hip hop, pop, R&B;0.736;1;-5.109
+Audioslave;Like a Stone;293960;2002;107.849;rock, metal;0.568;7;-5.477
+Wale;Bad (feat. Rihanna) - Remix;238826;2013;114.038;hip hop, pop, R&B;0.702;6;-6.594
+Dua Lipa;Hotter Than Hell;187957;2017;110.127;pop;0.868;3;-4.23
+Sigma;Nobody To Love - Radio Edit;189720;2014;175.001;pop, Dance/Electronic;0.921;8;-3.32
+Petit Biscuit;Sunset Lover;237792;2015;90.838;Dance/Electronic;0.467;6;-9.474
+Justin Timberlake;What Goes Around.../...Comes Around (Interlude);448573;2006;76.0;pop;0.723;7;-4.751
+Machine Gun Kelly;Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha);202804;2017;82.034;hip hop, pop;0.718;3;-5.232
+OneRepublic;Good Life;253306;2009;94.988;pop;0.69;6;-7.804
+Take That;Patience;202066;2006;175.788;pop;0.783;10;-4.154
+Terror Squad;Lean Back;247426;2004;95.321;hip hop;0.916;1;-3.344
+Missy Elliott;Work It;263226;2002;101.868;hip hop, pop, R&B;0.677;1;-5.603
+Asher Roth;I Love College;241933;2009;86.444;hip hop, pop;0.826;8;-4.075
+Arctic Monkeys;Brianstorm;172866;2007;165.182;rock;0.974;1;-4.706
+Avicii;Silhouettes - Original Radio Edit;211880;2012;128.074;pop, Dance/Electronic;0.8;5;-6.235
+Black Eyed Peas;Let's Get It Started - Spike Mix;217733;2004;104.923;hip hop, pop;0.799;11;-2.208
+Ava Max;Sweet but Psycho;187436;2018;133.002;pop;0.704;1;-4.724
+Snow Patrol;You're All I Have;273333;2006;132.013;World/Traditional, rock, pop;0.921;2;-4.554
+Selena Gomez;Good For You;221560;2015;88.928;pop;0.676;5;-6.447
+Calvin Harris;Drinking from the Bottle (feat. Tinie Tempah);240346;2012;128.062;hip hop, pop, Dance/Electronic;0.886;9;-4.175
+Selena Gomez & The Scene;Who Says;195613;2011;101.019;pop, Dance/Electronic;0.927;4;-2.915
+Felix Jaehn;Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson);186146;2018;117.971;hip hop, pop, Dance/Electronic;0.566;2;-6.959
+The Vamps;Middle Of The Night;174600;2017;130.093;pop;0.749;11;-4.323
+Alan Walker;Faded;212106;2018;179.642;Dance/Electronic;0.627;6;-5.085
+Katy Perry;California Gurls;234653;2012;125.014;pop;0.754;0;-3.729
+Coldplay;Paradise;278719;2011;139.631;rock, pop;0.585;5;-6.761
+Wheatus;Teenage Dirtbag;241666;1999;94.661;set();0.85;4;-3.904
+Lorde;Homemade Dynamite - REMIX;214254;2017;106.996;pop, Dance/Electronic;0.548;0;-4.997
+Anne-Marie;2002;186986;2018;96.133;pop, Dance/Electronic;0.683;1;-2.881
+Emma Bunton;What Took You So Long?;241000;2001;118.011;pop;0.772;9;-5.4
+Busta Rhymes;Pass The Courvoisier Part II (feat. P. Diddy & Pharrell) - Remix;238600;2001;89.767;hip hop, pop;0.793;6;-4.699
+Imagine Dragons;Demons;177506;2012;89.938;rock;0.71;3;-3.015
+Chingy;Right Thurr;250746;2003;92.074;hip hop, pop, R&B;0.749;2;-3.977
+Bridgit Mendler;Ready or Not;200946;2012;93.043;pop;0.872;2;-3.835
+Lana Del Rey;Lust for Life (with The Weeknd);264011;2017;99.979;pop;0.676;0;-8.618
+Missy Elliott;Lose Control (feat. Ciara & Fat Man Scoop);226863;2005;125.461;hip hop, pop, R&B;0.813;4;-7.105
+Ne-Yo;Because Of You;266840;2007;109.97;pop, R&B;0.538;0;-5.784
+Sam Smith;How Do You Sleep?;202204;2019;110.567;pop;0.682;1;-4.931
+The Goo Goo Dolls;Here Is Gone;238173;2002;102.192;pop, rock;0.685;1;-5.178
+N.E.R.D;She Wants To Move;213786;2004;115.012;hip hop;0.851;5;-4.831
+Britney Spears;Womanizer;224400;2008;139.0;pop;0.695;11;-5.226
+Drake;Too Good;263373;2016;117.996;hip hop, pop, R&B;0.653;7;-7.839
+Kanye West;Black Skinhead;188013;2013;130.089;hip hop;0.825;1;-6.107
+Demi Lovato;Give Your Heart a Break;205346;2011;123.008;pop;0.695;6;-3.218
+Britney Spears;I Wanna Go;210266;2011;130.002;pop;0.546;5;-6.55
+A1;Caught in the Middle;206466;2001;96.072;pop;0.874;5;-5.122
+Taylor Swift;Love Story;236266;2008;118.984;pop;0.741;2;-3.97
+T.I.;Live Your Life;338853;2008;159.841;hip hop, pop;0.862;11;-3.363
+Creed;My Sacrifice;294600;2001;146.349;pop, rock, metal;0.88;2;-6.035
+Mario;Let Me Love You;256733;2004;94.514;pop, R&B;0.578;7;-8.97
+Gary Jules;Mad World (Feat. Michael Andrews);189506;2001;174.117;pop;0.0581;3;-17.217
+Adele;Hello;295502;2015;157.98;pop, R&B;0.431;5;-6.129
+Kanye West;Good Life;207000;2007;82.962;hip hop;0.808;1;-6.881
+CNCO;Reggaetón Lento (Remix);188786;2017;93.984;pop, latin;0.909;4;-3.079
+The Notorious B.I.G.;Nasty Girl (feat. Diddy, Nelly, Jagged Edge & Avery Storm) - 2005 Remaster;286186;2005;106.328;hip hop;0.628;2;-7.041
+Jonas Brothers;Only Human;183000;2019;94.01;pop;0.496;0;-5.883
+Fetty Wap;Trap Queen;222093;2015;148.075;hip hop, pop;0.873;7;-3.803
+Dido;White Flag;240040;2003;169.951;pop;0.525;5;-6.823
+Enrique Iglesias;Be With You;219360;1999;121.996;pop, latin;0.866;1;-5.436
+Plan B;She Said;208853;2010;147.007;Dance/Electronic;0.538;3;-5.85
+Justin Timberlake;Like I Love You;283626;2002;114.964;pop;0.811;6;-4.927
+David Guetta;Sexy Bitch (feat. Akon);195853;2010;130.011;hip hop, pop, Dance/Electronic;0.627;11;-5.018
+La Roux;In For The Kill;248626;2009;150.01;pop, Dance/Electronic;0.969;8;-0.276
+Fall Out Boy;This Ain't A Scene, It's An Arms Race;212040;2007;199.935;rock;0.887;9;-4.07
+Mariah Carey;Touch My Body;204733;2008;78.502;pop, R&B;0.665;4;-7.736
+Sugababes;Too Lost In You;237693;2003;98.014;pop, R&B;0.705;1;-4.904
+Sugababes;Round Round;236426;2002;126.607;pop, R&B;0.845;6;-3.802
+Major Lazer;Light It Up (feat. Nyla & Fuse ODG) - Remix;166138;2015;107.985;hip hop, pop, Dance/Electronic;0.877;9;-3.782
+Aloe Blacc;I Need A Dollar;243053;2010;95.498;R&B;0.482;6;-7.116
+6ix9ine;FEFE;179404;2018;125.978;hip hop;0.387;1;-9.127
+Kylie Minogue;Wow;190973;2007;124.072;pop, Dance/Electronic;0.884;9;-5.466
+Green Day;21 Guns;321093;2009;159.779;rock;0.742;5;-4.939
+Kodak Black;ZEZE (feat. Travis Scott & Offset);228759;2018;98.043;hip hop;0.603;8;-5.788
+50 Cent;Outta Control - Remix;247506;2005;92.029;hip hop, pop;0.599;8;-5.996
+Nelly Furtado;Turn Off The Light;276106;2000;180.184;hip hop, pop, latin;0.679;2;-6.26
+Beyoncé;Check On It (feat. Slim Thug);211186;2006;166.104;pop, R&B;0.887;7;-3.887
+One Direction;Story of My Life;245493;2013;121.07;pop;0.663;3;-5.802
+Jessica Simpson;With You;191826;2003;94.487;pop, R&B;0.756;0;-4.583
+P!nk;Get the Party Started;192533;2001;128.93;pop;0.903;11;-3.267
+ZHU;Faded;223386;2014;124.96;Dance/Electronic;0.475;9;-7.195
+SAYGRACE;You Don't Own Me (feat. G-Eazy);201493;2016;186.249;pop, R&B;0.635;7;-5.653
+Avril Lavigne;Here's to Never Growing Up;214080;2013;164.986;pop;0.871;0;-3.084
+JLS;Beat Again - Radio Edit;196640;2009;120.02;pop;0.93;11;-4.577
+Miguel;Sure Thing;195373;2010;81.001;pop, R&B;0.607;11;-8.127
+Burak Yeter;Tuesday (feat. Danelle Sandoval);241874;2016;99.002;Dance/Electronic;0.639;9;-6.052
+Christina Aguilera;Can't Hold Us Down (feat. Lil' Kim);255266;2002;98.989;pop;0.658;8;-4.481
+Cobra Starship;You Make Me Feel... (feat. Sabi);215693;2011;131.959;pop, Dance/Electronic;0.857;7;-2.944
+P!nk;Sober;251440;2010;91.066;pop;0.792;6;-4.907
+Jordin Sparks;Battlefield;241920;2009;144.953;pop, R&B;0.634;2;-3.472
+Ludacris;Money Maker;230613;2006;78.756;hip hop, pop;0.598;1;-6.79
+Jennifer Lopez;On The Floor;284866;2011;130.0;hip hop, pop, R&B;0.777;3;-5.194
+Pendulum;Propane Nightmares;313346;2008;173.992;Dance/Electronic;0.966;7;-4.13
+Chase & Status;Blind Faith;233666;2011;140.042;Dance/Electronic;0.846;9;-4.712
+NSG;Options;240081;2020;101.993;World/Traditional, hip hop;0.621;1;-4.684
+Beyoncé;Naughty Girl;208600;2003;99.973;pop, R&B;0.466;6;-8.65
+Wiz Khalifa;See You Again (feat. Charlie Puth);229525;2015;80.025;hip hop, pop;0.481;10;-7.503
+Lana Del Rey;High By The Beach;257573;2015;131.988;pop;0.486;11;-11.067
+Black Eyed Peas;Imma Be;257560;2009;92.035;hip hop, pop;0.517;0;-6.963
+B.o.B;Magic (feat. Rivers Cuomo);196133;2010;82.439;hip hop, pop;0.932;8;-4.11
+Akon;Beautiful;312986;2008;130.015;pop;0.945;0;-4.442
+Rihanna;What's My Name?;263173;2010;100.025;hip hop, pop, R&B;0.786;2;-2.959
+Kesha;Blow;219973;2010;120.013;pop, Dance/Electronic;0.729;11;-3.862
+Sheppard;Geronimo;218227;2014;142.016;pop, rock, Dance/Electronic;0.771;7;-6.275
+Travie McCoy;Billionaire (feat. Bruno Mars);211160;2010;86.776;hip hop, pop;0.673;6;-6.403
+Tom Odell;Another Love;244360;2013;122.769;pop;0.537;4;-8.532
+Diddy;Come to Me (feat. Nicole Scherzinger);276786;2006;96.998;hip hop, pop;0.485;6;-6.45
+Mumford & Sons;Little Lion Man;245173;2009;138.585;Folk/Acoustic, rock, pop;0.492;5;-8.05
+Nelly;Grillz;271160;2005;82.996;hip hop, pop, R&B;0.504;4;-7.737
+Rihanna;S&M;243533;2010;127.975;hip hop, pop, R&B;0.682;1;-5.02
+Jonas Blue;Rise;194407;2018;106.046;pop, Dance/Electronic;0.785;1;-4.65
+Jason Derulo;Trumpets;217306;2013;81.897;hip hop, pop;0.703;0;-4.884
+Eminem;Cleanin' Out My Closet;297840;2002;148.015;hip hop;0.758;9;-4.753
+Otto Knows;Million Voices - Radio Edit;192866;2012;125.946;pop, Dance/Electronic;0.894;8;-6.298
+Capital Cities;Safe And Sound;192693;2013;117.952;pop;0.783;0;-4.829
+Edward Maya;Stereo Love - Radio Edit;184573;2010;127.041;pop;0.783;1;-3.896
+Selena Gomez;The Heart Wants What It Wants;227373;2014;83.066;pop;0.789;7;-4.874
+Leona Lewis;Bleeding Love;262466;2007;104.036;pop, R&B;0.656;5;-5.886
+Cali Swag District;Teach Me How to Dougie;237480;2011;85.013;hip hop, pop;0.438;11;-4.981
+3 Doors Down;Let Me Go;243053;2012;92.004;pop, rock, metal;0.863;1;-4.914
+Bastille;Good Grief;206493;2016;120.041;pop, rock;0.758;1;-4.888
+BlocBoy JB;Look Alive (feat. Drake);181263;2018;140.022;hip hop, pop;0.581;10;-7.495
+Chingy;Pullin' Me Back;234133;2006;80.0;hip hop, pop, R&B;0.511;7;-6.66
+The Pussycat Dolls;Stickwitu;207506;2005;79.918;pop, R&B;0.554;9;-6.408
+Sean Paul;We Be Burnin';213066;2005;117.0;hip hop, pop;0.803;1;-4.195
+Taylor Swift;Bad Blood;200106;2015;170.16;pop;0.655;11;-7.388
+John Newman;Love Me Again;239894;2013;126.03;set();0.894;2;-4.814
+Christina Milian;When You Look At Me - Radio Edit;222546;2001;108.955;hip hop, pop, R&B;0.839;3;-3.399
+Sammie;I Like It;251040;2000;129.963;hip hop, pop, R&B;0.656;9;-8.529
+Meghan Trainor;NO;213506;2017;92.134;pop;0.803;1;-3.599
+Bruno Mars;24K Magic;225983;2016;106.97;pop;0.803;1;-4.282
