@@ -1,0 +1,68 @@
+[
+  {
+    "_id": "Повар",
+    "min_salary": 191963,
+    "max_salary": 191963,
+    "avg_salary": 191963.0
+  },
+  {
+    "_id": "Учитель",
+    "min_salary": 185092,
+    "max_salary": 185092,
+    "avg_salary": 185092.0
+  },
+  {
+    "_id": "Водитель",
+    "min_salary": 142057,
+    "max_salary": 142057,
+    "avg_salary": 142057.0
+  },
+  {
+    "_id": "IT-специалист",
+    "min_salary": 117615,
+    "max_salary": 141599,
+    "avg_salary": 129607.0
+  },
+  {
+    "_id": "Инженер",
+    "min_salary": 39569,
+    "max_salary": 176270,
+    "avg_salary": 112454.5
+  },
+  {
+    "_id": "Психолог",
+    "min_salary": 53803,
+    "max_salary": 175250,
+    "avg_salary": 111671.0
+  },
+  {
+    "_id": "Бухгалтер",
+    "min_salary": 42186,
+    "max_salary": 154214,
+    "avg_salary": 110609.0
+  },
+  {
+    "_id": "Менеджер",
+    "min_salary": 60417,
+    "max_salary": 163775,
+    "avg_salary": 109254.6
+  },
+  {
+    "_id": "Строитель",
+    "min_salary": 57003,
+    "max_salary": 100845,
+    "avg_salary": 78924.0
+  },
+  {
+    "_id": "Косметолог",
+    "min_salary": 27663,
+    "max_salary": 127263,
+    "avg_salary": 77463.0
+  },
+  {
+    "_id": "Архитектор",
+    "min_salary": 25769,
+    "max_salary": 25769,
+    "avg_salary": 25769.0
+  }
+]
