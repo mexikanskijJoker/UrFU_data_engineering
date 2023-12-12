@@ -1,4 +1,3 @@
-from pprint import pprint
 from bs4 import BeautifulSoup as bs
 import json
 import re
@@ -105,12 +104,6 @@ class Parser:
 def main():
     parser = Parser()
     parser.save_data()
-    # pprint(parser.sort_values())
-
-    # with open("sorted.json", "w", encoding="UTF-8") as file:
-    #     json.dump(
-    #         sorted(data, key=lambda x: x["rating"]), file, indent=2, ensure_ascii=False
-    #     )
 
 
 if __name__ == "__main__":
