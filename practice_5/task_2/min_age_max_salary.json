@@ -1,7 +1,252 @@
 [
   {
-    "_id": "max salary by min age",
-    "min_age": 18,
-    "max_salary": 199925
+    "_id": 18,
+    "age": 18,
+    "max_salary": 192667
+  },
+  {
+    "_id": 19,
+    "age": 19,
+    "max_salary": 190543
+  },
+  {
+    "_id": 20,
+    "age": 20,
+    "max_salary": 189444
+  },
+  {
+    "_id": 21,
+    "age": 21,
+    "max_salary": 182447.2125
+  },
+  {
+    "_id": 22,
+    "age": 22,
+    "max_salary": 186004
+  },
+  {
+    "_id": 23,
+    "age": 23,
+    "max_salary": 198369
+  },
+  {
+    "_id": 24,
+    "age": 24,
+    "max_salary": 190623
+  },
+  {
+    "_id": 25,
+    "age": 25,
+    "max_salary": 193234
+  },
+  {
+    "_id": 26,
+    "age": 26,
+    "max_salary": 193891
+  },
+  {
+    "_id": 27,
+    "age": 27,
+    "max_salary": 199478
+  },
+  {
+    "_id": 28,
+    "age": 28,
+    "max_salary": 199116
+  },
+  {
+    "_id": 29,
+    "age": 29,
+    "max_salary": 174134
+  },
+  {
+    "_id": 30,
+    "age": 30,
+    "max_salary": 197307
+  },
+  {
+    "_id": 31,
+    "age": 31,
+    "max_salary": 195848
+  },
+  {
+    "_id": 32,
+    "age": 32,
+    "max_salary": 186250
+  },
+  {
+    "_id": 33,
+    "age": 33,
+    "max_salary": 196338
+  },
+  {
+    "_id": 34,
+    "age": 34,
+    "max_salary": 194674
+  },
+  {
+    "_id": 35,
+    "age": 35,
+    "max_salary": 194887
+  },
+  {
+    "_id": 36,
+    "age": 36,
+    "max_salary": 184826.93150000004
+  },
+  {
+    "_id": 37,
+    "age": 37,
+    "max_salary": 199007
+  },
+  {
+    "_id": 38,
+    "age": 38,
+    "max_salary": 193199
+  },
+  {
+    "_id": 39,
+    "age": 39,
+    "max_salary": 175979
+  },
+  {
+    "_id": 40,
+    "age": 40,
+    "max_salary": 179747
+  },
+  {
+    "_id": 41,
+    "age": 41,
+    "max_salary": 176992
+  },
+  {
+    "_id": 42,
+    "age": 42,
+    "max_salary": 193656
+  },
+  {
+    "_id": 43,
+    "age": 43,
+    "max_salary": 179621
+  },
+  {
+    "_id": 44,
+    "age": 44,
+    "max_salary": 195237
+  },
+  {
+    "_id": 45,
+    "age": 45,
+    "max_salary": 179607
+  },
+  {
+    "_id": 46,
+    "age": 46,
+    "max_salary": 193170
+  },
+  {
+    "_id": 47,
+    "age": 47,
+    "max_salary": 193273
+  },
+  {
+    "_id": 48,
+    "age": 48,
+    "max_salary": 189731.66020200003
+  },
+  {
+    "_id": 49,
+    "age": 49,
+    "max_salary": 183793
+  },
+  {
+    "_id": 50,
+    "age": 50,
+    "max_salary": 197427
+  },
+  {
+    "_id": 51,
+    "age": 51,
+    "max_salary": 195951
+  },
+  {
+    "_id": 52,
+    "age": 52,
+    "max_salary": 195149
+  },
+  {
+    "_id": 53,
+    "age": 53,
+    "max_salary": 180018
+  },
+  {
+    "_id": 54,
+    "age": 54,
+    "max_salary": 193881
+  },
+  {
+    "_id": 55,
+    "age": 55,
+    "max_salary": 167609
+  },
+  {
+    "_id": 56,
+    "age": 56,
+    "max_salary": 179941.23
+  },
+  {
+    "_id": 57,
+    "age": 57,
+    "max_salary": 193870
+  },
+  {
+    "_id": 58,
+    "age": 58,
+    "max_salary": 199009
+  },
+  {
+    "_id": 59,
+    "age": 59,
+    "max_salary": 186196
+  },
+  {
+    "_id": 60,
+    "age": 60,
+    "max_salary": 176683.34250000003
+  },
+  {
+    "_id": 61,
+    "age": 61,
+    "max_salary": 197331
+  },
+  {
+    "_id": 62,
+    "age": 62,
+    "max_salary": 188977
+  },
+  {
+    "_id": 63,
+    "age": 63,
+    "max_salary": 197898
+  },
+  {
+    "_id": 64,
+    "age": 64,
+    "max_salary": 195633
+  },
+  {
+    "_id": 65,
+    "age": 65,
+    "max_salary": 201928.69620000003
+  },
+  {
+    "_id": 66,
+    "age": 66,
+    "max_salary": 174774
+  },
+  {
+    "_id": 67,
+    "age": 67,
+    "max_salary": 178562.00250000003
   }
 ]

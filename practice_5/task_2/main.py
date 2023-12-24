@@ -117,36 +117,28 @@ class Jobs:
         return list(data)
 
     def _get_min_salary_by_max_age(self, collection):
-        stats = [
-            {"$group": {"_id": "$age", "min_salary": {"$min": "$salary"}}},
+        group_rule = dict(
+            _id={"$max": "$age"}, salary={"$min": "$salary"}, age={"$max": "$age"}
+        )
+        q = [
+            {"$group": group_rule},
             {
-                "$group": {
-                    "_id": "min salary, max age",
-                    "max_age": {"$max": "$_id"},
-                    "min_salary": {"$min": "$min_salary"},
-                }
+                "$sort": {"age": -1},
             },
         ]
-
-        data = collection.aggregate(stats)
-
-        return list(data)
+        return list(collection.aggregate(q))
 
     def _get_max_salary_by_min_age(self, collection):
-        stats = [
-            {"$group": {"_id": "$age", "max_salary": {"$max": "$salary"}}},
+        group_rule = dict(
+            _id={"$min": "$age"}, age={"$min": "$age"}, max_salary={"$max": "$salary"}
+        )
+        q = [
+            {"$group": group_rule},
             {
-                "$group": {
-                    "_id": "max salary by min age",
-                    "min_age": {"$min": "$_id"},
-                    "max_salary": {"$max": "$max_salary"},
-                }
+                "$sort": {"age": 1},
             },
         ]
-
-        data = collection.aggregate(stats)
-
-        return list(data)
+        return list(collection.aggregate(q))[1:]
 
     def _get_filtered_data_by_town(self, collection):
         stats = [
