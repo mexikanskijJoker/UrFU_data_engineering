@@ -67,13 +67,16 @@ class Parser:
         }
 
     def _get_freq(self, data):
-        matrixes = list(map(lambda obj: obj.get("matrix"), data))
+        matrixes = list(map(lambda obj: obj.get("matrix", None), data))
         freq = {}
         for matrix in matrixes:
-            if matrix in freq:
-                freq[matrix] += 1
+            if matrix != None:
+                if matrix in freq:
+                    freq[matrix] += 1
+                else:
+                    freq[matrix] = 1
             else:
-                freq[matrix] = 1
+                pass
         return freq
 
     def _get_html(self, file):
