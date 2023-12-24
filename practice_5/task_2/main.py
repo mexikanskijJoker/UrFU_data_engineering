@@ -25,7 +25,7 @@ class Jobs:
         with open("max_age_min_salary.json", "w", encoding="utf-8") as file:
             file.write(
                 dumps(
-                    self._get_min_salary_by_max_age(collection),
+                    self._get_min_salary_max_age(collection),
                     indent=2,
                     ensure_ascii=False,
                 )
@@ -33,7 +33,7 @@ class Jobs:
         with open("min_age_max_salary.json", "w", encoding="utf-8") as file:
             file.write(
                 dumps(
-                    self._get_max_salary_by_min_age(collection),
+                    self._get_max_salary_min_age(collection),
                     indent=2,
                     ensure_ascii=False,
                 )
@@ -65,9 +65,9 @@ class Jobs:
 
     def _connect(self):
         client = MongoClient()
-        db = client["practice_5"]
+        db = client["task_2"]
 
-        return db.jobs
+        return db.task_2
 
     def _get_file_data(self):
         with open(self.file, encoding="UTF-8") as file:
@@ -116,29 +116,23 @@ class Jobs:
 
         return list(data)
 
-    def _get_min_salary_by_max_age(self, collection):
-        group_rule = dict(
-            _id={"$max": "$age"}, salary={"$min": "$salary"}, age={"$max": "$age"}
-        )
-        q = [
-            {"$group": group_rule},
-            {
-                "$sort": {"age": -1},
-            },
-        ]
-        return list(collection.aggregate(q))
+    def _get_max_salary_min_age(self, collection):
+        query = [{"$sort": {"age": -1, "salary": 1}}, {"$limit": 1}]
+        items = []
+        for row in collection.aggregate(query):
+            row["_id"] = str(row["_id"])
+            items.append(row)
 
-    def _get_max_salary_by_min_age(self, collection):
-        group_rule = dict(
-            _id={"$min": "$age"}, age={"$min": "$age"}, max_salary={"$max": "$salary"}
-        )
-        q = [
-            {"$group": group_rule},
-            {
-                "$sort": {"age": 1},
-            },
-        ]
-        return list(collection.aggregate(q))[1:]
+        return items
+
+    def _get_min_salary_max_age(self, collection):
+        query = [{"$sort": {"age": 1, "salary": -1}}, {"$limit": 1}]
+        items = []
+        for row in collection.aggregate(query):
+            row["_id"] = str(row["_id"])
+            items.append(row)
+
+        return items
 
     def _get_filtered_data_by_town(self, collection):
         stats = [
