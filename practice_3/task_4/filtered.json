@@ -9,9 +9,8 @@
     "price": 449149,
     "rating": 3.69,
     "reviews": 994796,
-    "new": "No data",
-    "exclusive": "no",
-    "sporty": "yes"
+    "exclusive": false,
+    "sporty": true
   },
   {
     "id": 390406331,
@@ -23,9 +22,8 @@
     "price": 246142,
     "rating": 3.71,
     "reviews": 998743,
-    "new": "-",
-    "exclusive": "no",
-    "sporty": "No data"
+    "new": false,
+    "exclusive": false
   },
   {
     "id": 356588332,
@@ -37,9 +35,7 @@
     "price": 207785,
     "rating": 4.5,
     "reviews": 995633,
-    "new": "-",
-    "exclusive": "No data",
-    "sporty": "No data"
+    "new": false
   },
   {
     "id": 116544628,
@@ -51,9 +47,8 @@
     "price": 589493,
     "rating": 3.46,
     "reviews": 990581,
-    "new": "-",
-    "exclusive": "No data",
-    "sporty": "no"
+    "new": false,
+    "sporty": false
   },
   {
     "id": 498488243,
@@ -65,9 +60,8 @@
     "price": 863097,
     "rating": 3.64,
     "reviews": 996872,
-    "new": "-",
-    "exclusive": "No data",
-    "sporty": "no"
+    "new": false,
+    "sporty": false
   },
   {
     "id": 305517760,
@@ -79,9 +73,8 @@
     "price": 664396,
     "rating": 4.47,
     "reviews": 992233,
-    "new": "+",
-    "exclusive": "No data",
-    "sporty": "no"
+    "new": true,
+    "sporty": false
   },
   {
     "id": 776181578,
@@ -93,9 +86,8 @@
     "price": 293880,
     "rating": 4.78,
     "reviews": 991517,
-    "new": "No data",
-    "exclusive": "yes",
-    "sporty": "no"
+    "exclusive": true,
+    "sporty": false
   },
   {
     "id": 841929933,
@@ -107,9 +99,7 @@
     "price": 180921,
     "rating": 3.27,
     "reviews": 997488,
-    "new": "-",
-    "exclusive": "No data",
-    "sporty": "No data"
+    "new": false
   },
   {
     "id": 737419424,
@@ -121,9 +111,7 @@
     "price": 680093,
     "rating": 1.76,
     "reviews": 994901,
-    "new": "No data",
-    "exclusive": "no",
-    "sporty": "No data"
+    "exclusive": false
   },
   {
     "id": 306365992,
@@ -135,9 +123,7 @@
     "price": 546198,
     "rating": 1.69,
     "reviews": 998521,
-    "new": "+",
-    "exclusive": "No data",
-    "sporty": "No data"
+    "new": true
   },
   {
     "id": 884169934,
@@ -149,9 +135,7 @@
     "price": 756331,
     "rating": 4.98,
     "reviews": 992617,
-    "new": "No data",
-    "exclusive": "no",
-    "sporty": "No data"
+    "exclusive": false
   },
   {
     "id": 956354573,
@@ -163,9 +147,8 @@
     "price": 567136,
     "rating": 1.53,
     "reviews": 990360,
-    "new": "-",
-    "exclusive": "no",
-    "sporty": "No data"
+    "new": false,
+    "exclusive": false
   },
   {
     "id": 968839746,
@@ -177,9 +160,8 @@
     "price": 733937,
     "rating": 3.76,
     "reviews": 994227,
-    "new": "+",
-    "exclusive": "yes",
-    "sporty": "No data"
+    "new": true,
+    "exclusive": true
   },
   {
     "id": 526166161,
@@ -191,9 +173,7 @@
     "price": 785896,
     "rating": 1.64,
     "reviews": 994286,
-    "new": "No data",
-    "exclusive": "No data",
-    "sporty": "no"
+    "sporty": false
   },
   {
     "id": 511806650,
@@ -205,9 +185,7 @@
     "price": 175216,
     "rating": 1.1,
     "reviews": 993201,
-    "new": "No data",
-    "exclusive": "no",
-    "sporty": "No data"
+    "exclusive": false
   },
   {
     "id": 574657698,
@@ -219,9 +197,8 @@
     "price": 224620,
     "rating": 2.75,
     "reviews": 993178,
-    "new": "+",
-    "exclusive": "no",
-    "sporty": "No data"
+    "new": true,
+    "exclusive": false
   },
   {
     "id": 747685419,
@@ -233,9 +210,8 @@
     "price": 530629,
     "rating": 5.0,
     "reviews": 997736,
-    "new": "+",
-    "exclusive": "no",
-    "sporty": "No data"
+    "new": true,
+    "exclusive": false
   },
   {
     "id": 769998759,
@@ -247,9 +223,8 @@
     "price": 404823,
     "rating": 4.9,
     "reviews": 994419,
-    "new": "-",
-    "exclusive": "No data",
-    "sporty": "no"
+    "new": false,
+    "sporty": false
   },
   {
     "id": 958743079,
@@ -261,9 +236,7 @@
     "price": 696978,
     "rating": 1.42,
     "reviews": 992521,
-    "new": "No data",
-    "exclusive": "No data",
-    "sporty": "yes"
+    "sporty": true
   },
   {
     "id": 381588624,
@@ -275,9 +248,8 @@
     "price": 876712,
     "rating": 2.58,
     "reviews": 997675,
-    "new": "No data",
-    "exclusive": "no",
-    "sporty": "yes"
+    "exclusive": false,
+    "sporty": true
   },
   {
     "id": 284508700,
@@ -289,9 +261,8 @@
     "price": 166950,
     "rating": 1.28,
     "reviews": 995237,
-    "new": "No data",
-    "exclusive": "no",
-    "sporty": "no"
+    "exclusive": false,
+    "sporty": false
   },
   {
     "id": 747436809,
@@ -303,9 +274,8 @@
     "price": 399959,
     "rating": 4.53,
     "reviews": 992673,
-    "new": "+",
-    "exclusive": "No data",
-    "sporty": "no"
+    "new": true,
+    "sporty": false
   },
   {
     "id": 302605218,
@@ -317,9 +287,9 @@
     "price": 789734,
     "rating": 4.22,
     "reviews": 998206,
-    "new": "+",
-    "exclusive": "no",
-    "sporty": "yes"
+    "new": true,
+    "exclusive": false,
+    "sporty": true
   },
   {
     "id": 988169941,
@@ -331,9 +301,7 @@
     "price": 167099,
     "rating": 3.72,
     "reviews": 993011,
-    "new": "+",
-    "exclusive": "No data",
-    "sporty": "No data"
+    "new": true
   },
   {
     "id": 170389773,
@@ -345,9 +313,8 @@
     "price": 499310,
     "rating": 2.86,
     "reviews": 995242,
-    "new": "No data",
-    "exclusive": "no",
-    "sporty": "no"
+    "exclusive": false,
+    "sporty": false
   },
   {
     "id": 648196179,
@@ -359,9 +326,7 @@
     "price": 942044,
     "rating": 2.26,
     "reviews": 997214,
-    "new": "No data",
-    "exclusive": "No data",
-    "sporty": "yes"
+    "sporty": true
   },
   {
     "id": 766450843,
@@ -373,9 +338,8 @@
     "price": 547806,
     "rating": 1.46,
     "reviews": 990691,
-    "new": "-",
-    "exclusive": "yes",
-    "sporty": "No data"
+    "new": false,
+    "exclusive": true
   },
   {
     "id": 826459624,
@@ -387,9 +351,7 @@
     "price": 369902,
     "rating": 1.74,
     "reviews": 994081,
-    "new": "No data",
-    "exclusive": "no",
-    "sporty": "No data"
+    "exclusive": false
   },
   {
     "id": 926864892,
@@ -401,9 +363,8 @@
     "price": 769319,
     "rating": 3.21,
     "reviews": 991543,
-    "new": "+",
-    "exclusive": "no",
-    "sporty": "No data"
+    "new": true,
+    "exclusive": false
   },
   {
     "id": 648276684,
@@ -415,9 +376,8 @@
     "price": 451252,
     "rating": 1.44,
     "reviews": 993008,
-    "new": "+",
-    "exclusive": "no",
-    "sporty": "No data"
+    "new": true,
+    "exclusive": false
   },
   {
     "id": 970601729,
@@ -429,9 +389,8 @@
     "price": 506461,
     "rating": 1.97,
     "reviews": 999616,
-    "new": "-",
-    "exclusive": "No data",
-    "sporty": "no"
+    "new": false,
+    "sporty": false
   },
   {
     "id": 702835924,
@@ -443,9 +402,9 @@
     "price": 150599,
     "rating": 1.57,
     "reviews": 990165,
-    "new": "-",
-    "exclusive": "yes",
-    "sporty": "no"
+    "new": false,
+    "exclusive": true,
+    "sporty": false
   },
   {
     "id": 781034257,
@@ -457,9 +416,9 @@
     "price": 633534,
     "rating": 4.41,
     "reviews": 995399,
-    "new": "-",
-    "exclusive": "no",
-    "sporty": "no"
+    "new": false,
+    "exclusive": false,
+    "sporty": false
   },
   {
     "id": 292488975,
@@ -471,9 +430,7 @@
     "price": 563418,
     "rating": 4.06,
     "reviews": 992792,
-    "new": "-",
-    "exclusive": "No data",
-    "sporty": "No data"
+    "new": false
   },
   {
     "id": 105177332,
@@ -485,9 +442,8 @@
     "price": 198947,
     "rating": 4.35,
     "reviews": 997915,
-    "new": "No data",
-    "exclusive": "no",
-    "sporty": "no"
+    "exclusive": false,
+    "sporty": false
   },
   {
     "id": 241464998,
@@ -499,8 +455,6 @@
     "price": 499682,
     "rating": 1.41,
     "reviews": 999188,
-    "new": "No data",
-    "exclusive": "No data",
-    "sporty": "no"
+    "sporty": false
   }
 ]

@@ -19,17 +19,25 @@ class Parser:
             json.dump(self._get_freq(data), file, indent=2, ensure_ascii=False)
 
     def _get_data(self, elem: bs):
-        return {
+        res = {
             "name": self._get_name(elem),
             "price": self._get_price(elem),
             "bonuses": self._get_bonuses(elem),
-            "processor": self._get_processor(elem),
-            "ram": self._get_ram(elem),
-            "sim": self._get_sim(elem),
-            "matrix": self._get_matrix(elem),
-            "resolution": self._get_resolution(elem),
-            "acc": self._get_acc(elem),
         }
+        if self._get_processor(elem) != None:
+            res.update({"processor": self._get_processor(elem)})
+        if self._get_ram(elem) != None:
+            res.update({"ram": self._get_ram(elem)})
+        if self._get_sim(elem) != None:
+            res.update({"sim": self._get_sim(elem)})
+        if self._get_matrix(elem) != None:
+            res.update({"matrix": self._get_matrix(elem)})
+        if self._get_resolution(elem) != None:
+            res.update({"resolution": self._get_resolution(elem)})
+        if self._get_acc(elem) != None:
+            res.update({"acc": self._get_acc(elem)})
+
+        return res
 
     def _get_files_data(self):
         data = []
@@ -47,19 +55,19 @@ class Parser:
         return sorted(data, key=lambda obj: obj["price"])
 
     def _filter_values(self, data):
-        return list(filter(lambda obj: obj["ram"] == "No data", data))
+        return list(filter(lambda obj: obj["bonuses"] > 2000, data))
 
     def _get_stats(self, data):
-        acc_capacity = [obj["acc"] for obj in data if obj["acc"] != "No data"]
+        price_stats = [obj["price"] for obj in data]
         return {
-            "max": max(acc_capacity),
-            "min": min(acc_capacity),
-            "sum": sum(acc_capacity),
-            "avg": sum(acc_capacity) / len(acc_capacity),
+            "max": max(price_stats),
+            "min": min(price_stats),
+            "sum": sum(price_stats),
+            "avg": sum(price_stats) / len(price_stats),
         }
 
     def _get_freq(self, data):
-        matrixes = list(map(lambda obj: obj["matrix"], data))
+        matrixes = list(map(lambda obj: obj.get("matrix"), data))
         freq = {}
         for matrix in matrixes:
             if matrix in freq:
@@ -86,40 +94,46 @@ class Parser:
         return bonuses
 
     def _get_processor(self, elem):
-        processor = elem.find("li", type="processor")
-        if processor == None:
-            return "No data"
-        return processor.text.strip()
+        try:
+            processor = elem.find("li", type="processor")
+            return processor.text.strip()
+        except AttributeError:
+            return None
 
     def _get_ram(self, elem):
-        ram = elem.find("li", type="ram")
-        if ram == None:
-            return "No data"
-        return int(ram.text.strip().replace(" GB", ""))
+        try:
+            ram = elem.find("li", type="ram")
+            return int(ram.text.strip().replace(" GB", ""))
+        except AttributeError:
+            return None
 
     def _get_sim(self, elem):
-        sim = elem.find("li", type="sim")
-        if sim == None:
-            return "No data"
-        return int(sim.text.strip().replace(" SIM", ""))
+        try:
+            sim = elem.find("li", type="sim")
+            return int(sim.text.strip().replace(" SIM", ""))
+        except AttributeError:
+            return None
 
     def _get_matrix(self, elem):
-        matrix = elem.find("li", type="matrix")
-        if matrix == None:
-            return "No data"
-        return matrix.text.strip()
+        try:
+            matrix = elem.find("li", type="matrix")
+            return matrix.text.strip()
+        except AttributeError:
+            return None
 
     def _get_resolution(self, elem):
-        resolution = elem.find("li", type="resolution")
-        if resolution == None:
-            return "No data"
-        return resolution.text.strip()
+        try:
+            resolution = elem.find("li", type="resolution")
+            return resolution.text.strip()
+        except AttributeError:
+            return None
 
     def _get_acc(self, elem):
-        acc = elem.find("li", type="acc")
-        if acc == None:
-            return "No data"
-        return int(acc.text.strip().replace(" мА * ч", ""))
+        try:
+            acc = elem.find("li", type="acc")
+            return int(acc.text.strip().replace(" мА * ч", ""))
+        except AttributeError:
+            return None
 
 
 def main():

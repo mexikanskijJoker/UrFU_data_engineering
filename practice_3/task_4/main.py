@@ -18,20 +18,32 @@ class Parser:
             json.dump(self._get_freq(data), file, indent=2, ensure_ascii=False)
 
     def _get_data(self, elem: bs):
-        return {
+        res = {
             "id": self._get_id(elem),
             "name": self._get_name(elem),
             "category": self._get_category(elem),
-            "size": self._get_size(elem),
-            "color": self._get_color(elem),
-            "material": self._get_material(elem),
-            "price": self._get_price(elem),
-            "rating": self._get_rating(elem),
-            "reviews": self._get_reviews(elem),
-            "new": self._get_newness(elem),
-            "exclusive": self._get_exclusivity(elem),
-            "sporty": self._get_sportiness(elem),
         }
+
+        if self._get_size(elem) != None:
+            res.update({"size": self._get_size(elem)})
+        if self._get_color(elem) != None:
+            res.update({"color": self._get_color(elem)})
+        if self._get_material(elem) != None:
+            res.update({"material": self._get_material(elem)})
+        if self._get_price(elem) != None:
+            res.update({"price": self._get_price(elem)})
+        if self._get_rating(elem) != None:
+            res.update({"rating": self._get_rating(elem)})
+        if self._get_reviews(elem) != None:
+            res.update({"reviews": self._get_reviews(elem)})
+        if self._get_newness(elem) != None:
+            res.update({"new": self._get_newness(elem)})
+        if self._get_exclusivity(elem) != None:
+            res.update({"exclusive": self._get_exclusivity(elem)})
+        if self._get_sportiness(elem) != None:
+            res.update({"sporty": self._get_sportiness(elem)})
+
+        return res
 
     def _get_files_data(self):
         data = []
@@ -61,13 +73,13 @@ class Parser:
         }
 
     def _get_freq(self, data):
-        materials = list(map(lambda obj: obj["material"], data))
+        categorys = list(map(lambda obj: obj["category"], data))
         freq = {}
-        for material in materials:
-            if material in freq:
-                freq[material] += 1
+        for category in categorys:
+            if category in freq:
+                freq[category] += 1
             else:
-                freq[material] = 1
+                freq[category] = 1
         return freq
 
     def _get_html(self, file):
@@ -88,58 +100,67 @@ class Parser:
         return category
 
     def _get_size(self, elem: bs):
-        size = elem.find("size")
-        if size == None:
-            return "No data"
-        return size.text.strip()
+        try:
+            size = elem.find("size").text.strip()
+            return size
+        except AttributeError:
+            return None
 
     def _get_color(self, elem: bs):
-        color = elem.find("color")
-        if color == None:
-            return "No data"
-        return color.text.strip()
+        try:
+            color = elem.find("color").text.strip()
+            return color
+        except AttributeError:
+            return None
 
     def _get_material(self, elem):
-        material = elem.find("material")
-        if material == None:
-            return "No data"
-        return material.text.strip()
+        try:
+            material = elem.find("material").text.strip()
+            return material
+        except AttributeError:
+            return None
 
     def _get_price(self, elem):
-        price = elem.find("price")
-        if price == None:
-            return "No data"
-        return int(price.text.strip())
+        try:
+            price = elem.find("price").text.strip()
+            return int(price)
+        except AttributeError:
+            return None
 
     def _get_rating(self, elem):
-        rating = elem.find("rating")
-        if rating == None:
-            return "No data"
-        return float(rating.text.strip())
+        try:
+            rating = elem.find("rating").text.strip()
+            return float(rating)
+        except AttributeError:
+            return None
 
     def _get_reviews(self, elem):
-        reviews = elem.find("reviews")
-        if reviews == None:
-            return "No data"
-        return int(reviews.text.strip())
+        try:
+            reviews = elem.find("reviews")
+            return int(reviews.text.strip())
+        except AttributeError:
+            return None
 
     def _get_newness(self, elem):
-        new = elem.find("new")
-        if new == None:
-            return "No data"
-        return new.text.strip()
+        try:
+            new = elem.find("new").text.strip()
+            return True if new == "+" else False
+        except AttributeError:
+            return None
 
     def _get_exclusivity(self, elem):
-        exclusive = elem.find("exclusive")
-        if exclusive == None:
-            return "No data"
-        return exclusive.text.strip()
+        try:
+            exclusive = elem.find("exclusive").text.strip()
+            return True if exclusive == "yes" else False
+        except AttributeError:
+            return None
 
     def _get_sportiness(self, elem):
-        sporty = elem.find("sporty")
-        if sporty == None:
-            return "No data"
-        return sporty.text.strip()
+        try:
+            sporty = elem.find("sporty").text.strip()
+            return True if sporty == "yes" else False
+        except AttributeError:
+            return None
 
 
 def main():
